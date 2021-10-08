@@ -10,6 +10,11 @@ html{
     grid-gap: 2rem;
 }
 
+.button_wiki div{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
 .button_wiki button{
     padding: 10px;
     padding-left: 20px;
@@ -81,6 +86,12 @@ nav{
 
 header{
     border-bottom: 1px solid lightgrey;
+}
+.ContainerSongtekst{
+    text-align: center;
+}
+.Blauw{
+    background-color:  #4682b4;
 }
 
 
