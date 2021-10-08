@@ -1,7 +1,18 @@
-
+html{
+    max-width: 1024px;
+    margin: 0 auto;
+}
 /* Wiki MainPage */
 .button_wiki{
+
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-columns: 50%;
+    grid-gap: 2rem;
 }
+
+.button_wiki button{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
