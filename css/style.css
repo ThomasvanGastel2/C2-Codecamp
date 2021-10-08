@@ -62,6 +62,12 @@ nav{
     display: flex;
     justify-content: space-between;
 }
+.ContainerSongtekst{
+    text-align: center;
+}
+.Blauw{
+    background-color:  #4682b4;
+}
 
 
 
