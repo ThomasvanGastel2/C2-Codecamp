@@ -11,8 +11,8 @@
             <img src="<?php echo $base_url; ?>/img/aubergine.png" alt="logo">
             <div class="links">
                 <a href="<?php echo $base_url; ?>/index.php">Home</a> 
-                <a href="<?php echo $base_url; ?>/scrappy.html">Wiki</a>
-                <a href="<?php echo $base_url; ?>/login.php">Songteksten</a>
+                <a href="<?php echo $base_url; ?>/wiki/wiki.php">Wiki</a>
+                <a href="<?php echo $base_url; ?>/songteksten/sonteksten.php">Songteksten</a>
             </div>
         </nav>
     </div>

@@ -53,14 +53,34 @@ nav a:hover{
     margin: 0 auto;
 }
 
-nav img{
-    height: 120px;
-    width: auto;
+
+
+
+
+
+nav a:hover{
+  background-color: #ccc;
+  padding: 3px;
+  border-radius: 10px;
 }
 
 nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.links a{
+  font-size: 22px;
+  text-decoration: none;
+  padding: 3px;
+  margin-right: 20px;
+  margin-left: 20px;
+  color: #27AE60;
+}
+
+header{
+    border-bottom: 1px solid lightgrey;
 }
 
 
