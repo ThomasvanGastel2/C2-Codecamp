@@ -8,11 +8,11 @@
 <header>
     <div class="container">
         <nav>
-            <img src="<?php echo $base_url; ?>/img/logo-big-v4.png" alt="logo">
+            <img src="<?php echo $base_url; ?>/img/aubergine.png" alt="logo">
             <div class="links">
                 <a href="<?php echo $base_url; ?>/index.php">Home</a> 
-                <a href="<?php echo $base_url; ?>/scrappy.html">Takenoverzicht</a>
-                <a href="<?php echo $base_url; ?>/login.php">Login</a>
+                <a href="<?php echo $base_url; ?>/scrappy.html">Wiki</a>
+                <a href="<?php echo $base_url; ?>/login.php">Songteksten</a>
             </div>
         </nav>
     </div>
