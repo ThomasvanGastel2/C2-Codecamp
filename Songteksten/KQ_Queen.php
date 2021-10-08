@@ -11,78 +11,69 @@
         <div class="ContainerSongtekst">
             <div class="Blauw">
                 <p>
-                    "Bohemian Rhapsody"<br>
+                    "Killer Queen"<br>
                     <br>
-                    Is this the real life?<br>
-                    Is this just fantasy?<br>
-                    Caught in a landslide<br>
-                    No escape from reality<br>
+                    She keeps Moët et Chandon<br>
+                    In her pretty cabinet<br>
+                    'Let them eat cake,' she says<br>
+                    Just like Marie Antoinette<br>
+                    A built-in remedy<br>
+                    For Khrushchev and Kennedy<br>
+                    At anytime an invitation<br>
+                    You can't decline<br>
                     <br>
-                    Open your eyes<br>
-                    Look up to the skies and see<br>
-                    I'm just a poor boy, I need no sympathy<br>
-                    Because I'm easy come, easy go<br>
-                    Little high, little low<br>
-                    Any way the wind blows<br>
-                    Doesn't really matter to me, to me<br>
+                    Caviar and cigarettes<br>
+                    Well versed in etiquette<br>
+                    Extraordinarily nice<br>
                     <br>
-                    Mama, just killed a man<br>
-                    Put a gun against his head<br>
-                    Pulled my trigger, now he's dead<br>
-                    Mama, life had just begun<br>
-                    But now I've gone and thrown it all away<br>
+                    She's a Killer Queen<br>
+                    Gunpowder, gelatine<br>
+                    Dynamite with a laser beam<br>
+                    Guaranteed to blow your mind<br>
+                    Anytime<br>
                     <br>
-                    Mama, ooh<br>
-                    Didn't mean to make you cry<br>
-                    If I'm not back again this time tomorrow<br>
-                    Carry on, carry on as if nothing really matters<br>
+                    Recommended at the price<br>
+                    Insatiable an appetite<br>
+                    Wanna try?<br>
                     <br>
-                    Too late, my time has come<br>
-                    Sends shivers down my spine<br>
-                    Body's aching all the time<br>
-                    Goodbye, everybody, I've got to go<br>
-                    Gotta leave you all behind and face the truth<br>
+                    To avoid complications<br>
+                    She never kept the same address<br>
+                    In conversation<br>
+                    She spoke just like a baroness<br>
+                    Met a man from China<br>
+                    Went down to Geisha Minah<br>
+                    Then again incidentally<br>
+                    If you're that way inclined<br>
                     <br>
-                    Mama, ooh (Any way the wind blows)<br>
-                    I don't want to die<br>
-                    I sometimes wish I'd never been born at all<br>
+                    Perfume came naturally from Paris (naturally)<br>
+                    For cars she couldn't care less<br>
+                    Fastidious and precise<br>
                     <br>
-                    I see a little silhouetto of a man<br>
-                    Scaramouche, Scaramouche, will you do the Fandango?<br>
-                    Thunderbolt and lightning very, very frightening me<br>
-                    (Galileo) Galileo<br>
-                    (Galileo) Galileo<br>
-                    Galileo Figaro<br>
-                    Magnifico-o-o-o-o<br>
+                    She's a Killer Queen<br>
+                    Gunpowder, gelatine<br>
+                    Dynamite with a laser beam<br>
+                    Guaranteed to blow your mind<br>
+                    Anytime<br>
                     <br>
-                    I'm just a poor boy, nobody loves me<br>
-                    He's just a poor boy from a poor family<br>
-                    Spare him his life from this monstrosity<br>
+                    Drop of a hat she's as willing as<br>
+                    Playful as a pussy cat<br>
+                    Then momentarily out of action<br>
+                    Temporarily out of gas<br>
+                    To absolutely drive you wild, wild<br>
+                    She's out to get you<br>
                     <br>
-                    Easy come, easy go, will you let me go?<br>
-                    Bismillah! No, we will not let you go (Let him go!)<br>
-                    Bismillah! We will not let you go (Let him go!)<br>
-                    Bismillah! We will not let you go (Let me go!)<br>
-                    Will not let you go (Let me go!)<br>
-                    Never let you go (Never, never, never, never let me go)<br>
-                    Oh oh oh oh<br>
-                    No, no, no, no, no, no, no<br>
-                    Oh, mama mia, mama mia (Mama mia, let me go)<br>
-                    Beelzebub has a devil put aside for me, for me, for me<br>
+                    She's a Killer Queen<br>
+                    Gunpowder, gelatine<br>
+                    Dynamite with a laser beam<br>
+                    Guaranteed to blow your mind<br>
+                    Anytime<br>
                     <br>
-                    So you think you can stone me and spit in my eye?<br>
-                    So you think you can love me and leave me to die?<br>
-                    Oh, baby, can't do this to me, baby<br>
-                    Just gotta get out, just gotta get right outta here<br>
+                    Recommended at the price<br>
+                    Insatiable an appetite<br>
+                    Wanna try?<br>
+                    You wanna try<br>
                     <br>
-                    Ooooh, ooh yeah, ooh yeah<br>
-                    <br>
-                    Nothing really matters<br>
-                    Anyone can see<br>
-                    Nothing really matters<br>
-                    Nothing really matters to me<br>
-                    <br>
-                    Any way the wind blows...
+
                 </p>
             </div>
          </div>
