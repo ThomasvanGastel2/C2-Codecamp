@@ -17,7 +17,9 @@
                 class="dropbtn">Songteksten</button>
                     <div class="dropdown-content">
                     <a href="<?php echo $base_url; ?>/Songteksten/BR_Queen.php">Bohemian Rapsody</a> 
-                    
+                    <a href="<?php echo $base_url; ?>/Songteksten/KQ_Queen.php">Killer Queen </a> 
+                    <a href="<?php echo $base_url; ?>/Songteksten/Madness_Muse.php">Madness</a>
+                    <a href="<?php echo $base_url; ?>/Songteksten/BR_Queen.php"></a>  
                     </div>
                 </div>
                 <a href="<?php echo $base_url; ?>/Films/
