@@ -1,6 +1,9 @@
-html{
-    max-width: 1024px;
-    margin: 0 auto;
+
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 /* Wiki MainPage */
 .button_wiki{
@@ -21,7 +24,13 @@ html{
     padding-right: 20px;
 }
 /* Header*/
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
 nav{
+    margin-bottom: 8px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,10 +43,11 @@ nav{
     margin-right: 20px;
     margin-left: 20px;
     color: #27AE60;
+    font: 'Noto Sans JP', sans-serif;
 }
 
 nav img{
-    height: 120px;
+    height: 100px;
     width: auto;
 }
 
@@ -53,45 +63,31 @@ nav a:hover{
     align-items: center;
 }
 
-.container{
-    max-width: 1024px;
-    margin: 0 auto;
-}
-
-
-
-
-
-
 nav a:hover{
   background-color: #ccc;
   padding: 3px;
   border-radius: 10px;
 }
 
-nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.links a{
-  font-size: 22px;
-  text-decoration: none;
-  padding: 3px;
-  margin-right: 20px;
-  margin-left: 20px;
-  color: #27AE60;
-}
 
 header{
     border-bottom: 1px solid lightgrey;
+    box-shadow: 0px 15px 10px -15px #111; 
+    
 }
+
+/* Songtekst */
 .ContainerSongtekst{
     text-align: center;
 }
 .Blauw{
     background-color:  #4682b4;
+}
+.Rood{
+    background-color:   #cc0000;
+}
+.Oranje{
+    background-color:  #b97d4b;
 }
 
 
