@@ -87,11 +87,18 @@ nav{
 header{
     border-bottom: 1px solid lightgrey;
 }
+/* Songtekst */
 .ContainerSongtekst{
     text-align: center;
 }
 .Blauw{
     background-color:  #4682b4;
+}
+.Rood{
+    background-color:   #cc0000;
+}
+.Oranje{
+    background-color:  #b97d4b;
 }
 
 
