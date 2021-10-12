@@ -8,6 +8,9 @@
     <title>Plug in baby</title>
 </head>
     <body>
+    <?php
+        require_once '../header.php'
+    ?>
         <div class="ContainerSongtekst">
             <div class="Oranje">
                 <p>

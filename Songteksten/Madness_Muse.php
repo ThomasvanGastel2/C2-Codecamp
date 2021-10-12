@@ -8,6 +8,9 @@
     <title>Madness</title>
 </head>
     <body>
+    <?php
+        require_once '../header.php'
+    ?>
         <div class="ContainerSongtekst">
             <div class="Rood">
                 <p>

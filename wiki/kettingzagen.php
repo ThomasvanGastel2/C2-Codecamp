@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+<?php
+        require_once '../header.php'
+?>
 <h3>Kettingzaag</h3>
         <p>Een kettingzaag (ook motorzaag, motorkettingzaag of boomzaag genoemd) is een draagbare machine om mee te zagen. De belangrijkste functie is hout zagen.</p>
         <br>
