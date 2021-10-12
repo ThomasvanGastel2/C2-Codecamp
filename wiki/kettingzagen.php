@@ -4,9 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Kettingzagen</title>
 </head>
 <body>
+    <?php
+        require_once 'header/header.php'
+    ?>
 <h3>Kettingzaag</h3>
         <p>Een kettingzaag (ook motorzaag, motorkettingzaag of boomzaag genoemd) is een draagbare machine om mee te zagen. De belangrijkste functie is hout zagen.</p>
         <br>
