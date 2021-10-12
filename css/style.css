@@ -23,12 +23,6 @@ body{
     padding-left: 20px;
     padding-right: 20px;
 }
-
-.hamers li{
-    font-weight: bold;
-}
-
-
 /* Header*/
 .container{
     max-width: 1024px;
@@ -50,6 +44,7 @@ nav{
     margin-left: 20px;
     color: #27AE60;
     font: 'Noto Sans JP', sans-serif;
+    font-weight: 100;
 }
 
 nav img{
@@ -63,10 +58,6 @@ nav a:hover{
   border-radius: 10px;
 }
 
-nav img:hover{
-    text-decoration: none;
-    border-radius: none;
-}
 
 .links{
     display: flex;
