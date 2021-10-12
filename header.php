@@ -8,7 +8,7 @@
 <header>
     <div class="container">
         <nav>
-            <img src="<?php echo $base_url; ?>/img/aubergine.png" alt="logo">
+            <img src="<?php echo $base_url; ?>/img/teamAubergine.png" alt="logo">
             <div class="links">
                 <a href="<?php echo $base_url; ?>/index.php">Home</a> 
                 <div class="dropdown">
