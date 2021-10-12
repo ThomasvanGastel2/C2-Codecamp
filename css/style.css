@@ -79,6 +79,7 @@ header{
 }
 
 .dropbtn {
+    font-family: 'Noto Sans JP', sans-serif ;
     background-color: white;
     color:#27AE60;;
     padding: 3px;

@@ -37,7 +37,7 @@
                 <a href="<?php echo $base_url; ?>/jamesBond/jamesbond.php">James Bond</a> 
                 <div class="dropdown">
                 <button
-                class="dropbtn">Songteksten</button>
+                class="dropbtn">Information</button>
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url; ?>/information/darthvader.php">Darth Vader</a> 
                         <a href="<?php echo $base_url; ?>/information/timotydalto.php">Timoty Dalto</a> 
