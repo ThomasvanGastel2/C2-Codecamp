@@ -21,7 +21,8 @@
                         <a href="<?php echo $base_url; ?>/Songteksten/Uprising_MyBaby.php">Uprising (MyBaby)</a>  
                         <a href="<?php echo $base_url; ?>/Songteksten/Uprising_Muse.php">Uprising (Muse)</a>
                         <a href="<?php echo $base_url; ?>/Songteksten/PIB_Muse.php">Plug in baby</a>  
-                        <a href="<?php echo $base_url; ?>/Songteksten/Transylvania_IronMaiden.php">Transylvania</a>  
+                        <a href="<?php echo $base_url; ?>/Songteksten/Transylvania_IronMaiden.php">Transylvania</a>
+                        <a href="<?php echo $base_url; ?>/Songteksten/WATC_Queen.php ">We are the champions</a>
                     </div>
                 </div>
                 <div class="dropdown">
