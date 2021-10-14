@@ -21,7 +21,7 @@
                         <a href="<?php echo $base_url; ?>/Songteksten/Uprising_MyBaby.php">Uprising (MyBaby)</a>  
                         <a href="<?php echo $base_url; ?>/Songteksten/Uprising_Muse.php">Uprising (Muse)</a>
                         <a href="<?php echo $base_url; ?>/Songteksten/PIB_Muse.php">Plug in baby</a>  
-                        <a href="<?php echo $base_url; ?>/Songteksten/Transylvania_IronMaiden.php">Transylvia</a>  
+                        <a href="<?php echo $base_url; ?>/Songteksten/Transylvania_IronMaiden.php">Transylvania</a>  
                     </div>
                 </div>
                 <div class="dropdown">
@@ -32,9 +32,13 @@
                         <a href="<?php echo $base_url; ?>/wiki/cirkelzagen.php">Cirkelzagen </a> 
                         <a href="<?php echo $base_url; ?>/wiki/hamers.php">Hamers</a>
                         <a href="<?php echo $base_url; ?>/wiki/kettingzagen.php">Kettingzagen</a>   
+                        <a href="<?php echo $base_url; ?>/wiki/Schroevendraaiers.php">Schroevendraaiers</a>   
+                        <a href="<?php echo $base_url; ?>/wiki/Handzagen.php">Handzagen</a>   
+                        <a href="<?php echo $base_url; ?>/wiki/George_Clooney.php">George Clooney</a>   
+
                     </div>
                 </div>
-                <a href="<?php echo $base_url; ?>/jamesBond/jamesbond.php">James Bond</a> 
+                 
                 <div class="dropdown">
                 <button
                 class="dropbtn">Information</button>
@@ -42,6 +46,7 @@
                         <a href="<?php echo $base_url; ?>/information/darthvader.php">Darth Vader</a> 
                         <a href="<?php echo $base_url; ?>/information/timotydalto.php">Timoty Dalto</a> 
                         <a href="<?php echo $base_url; ?>/information/lukeskywalker.php">Luke Skywalker</a>
+                        <a href="<?php echo $base_url; ?>/information/jamesbond.php">James Bond</a>
                     </div>
                 </div>
             </div>
