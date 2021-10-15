@@ -11,6 +11,7 @@
     <?php
     require_once '../header.php'
     ?>
+<div class="darthvader">
     <h1>Darthvader</h1>
         <p>Darth Vader is een personage uit de Star Wars-films. Hij is als Sith-leerling ondergeschikt aan keizer Palpatine, ook bekend als Darth Sidious.
         In de jaren 1977, 1980 en 1983 werd Darth Vader gespeeld door acteur David Prowse en stuntman Bob Anderson. Zijn stem werd echter ingesproken door James Earl Jones, omdat diens stem veel zwaarder, duisterder en dreigender klonk.</p>
@@ -31,7 +32,7 @@
         <li>Darth Vaders kostuum is gebaseerd op dat van een Japanse samoerai. Een andere inspiratiebron was Heinrich Himmler, die eveneens in zwart gekleed ging.</li>
         <li>Tijdens de burgeroorlog in de Oekraïne transformeerden inwoners van Odessa een standbeeld van Lenin in Darth Vader.</li>
     </ul>
-
+</div>
 
 
 </body>
