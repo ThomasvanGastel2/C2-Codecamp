@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <link rel="shortcut icon" href="../img/favicon.png" type="image">  
@@ -12,21 +12,29 @@
 
         require_once  '../header.php'
 ?>
+    <h3>Koffie</h3>
     <p>
         Koffie is een meestal warm genuttigde drank, die wordt bereid op basis van water en gedroogde en gebrande pitten van de koffieplant (Coffea spp.) 
-        die vanwege hun vorm koffiebonen worden genoemd. Koffie bevat het stimulerende middel cafeïne.[1][2] De meeste soorten in het geslacht Coffea komen van nature voor in tropisch Afrika en op de eilanden in de Indische Oceaan. 
+        die vanwege hun vorm koffiebonen worden genoemd. Koffie bevat het stimulerende middel cafeïne.De meeste soorten in het geslacht Coffea komen van nature voor in tropisch Afrika en op de eilanden in de Indische Oceaan. 
         Ze vinden hun oorsprong in Ethiopië, Jemen en Soedan.
         <br>
-        <br>
-        De koffieboon is een belangrijk exportproduct van landen rondom de evenaar, zoals Brazilië, Vietnam en Colombia.
-        Koffieplanten worden vooral gecultiveerd op plantages in tropische landen, voor export naar landen met een gematigd klimaat.
-        Samen met kennis van de drank verspreidde de plant zich vanaf de 15e eeuw uit tropisch Afrika naar Noord-Afrika, het Midden-Oosten en Europa.
-        Sinds de 19e eeuw bevinden de belangrijkste producenten en exporteurs van koffiebonen zich in de tropische gebieden van Zuid- en Centraal-Amerika, Afrika en Azië. De meest geteelde soorten zijn Coffea arabica (arabica) en C. canephora (robusta).
-        <br>
-        <br>
-        Koffie wordt in veel culturen genuttigd.
-        De drank is, voor wat betreft de smaak, bitter en licht zuur en wordt daarom soms aangevuld met melk en/of suiker.
-        Koffie wordt ook als smaakmaker gebruikt in gebak, taart en ijs. Een gematigde consumptie zou een gunstig effect hebben op de gezondheid.
     </p>
+
+    <h3>Productie</h3>
+    <p>
+    Koffie wordt gemaakt van de ontvelde, gedroogde, geroosterde en gemalen zaden van de koffieplant.
+    Deze zaden worden koffiebonen genoemd maar botanisch gezien is dit niet juist. 
+    De vrucht van de koffieplant is een steenvrucht. 
+    Dat is een vrucht met een dikke harde pit en een dun laagje vruchtvlees. Deze pit (oftewel zaad) lijkt echter sterk op een boon wordt daarom koffieboon genoemd.
+    <br>
+    </p>
+
+    <h3>Temperatuur</h3>
+    <p>
+    Om van de gemalen bonen koffie te maken, wordt er net niet kokend water aan toegevoegd. Dat kan volgens verschillende methodes, zoals de filtermethode en de espressomethode. 
+    De temperatuur van het water is bepalend voor de smaak: bij lagere temperaturen blijft de smaak van de bonen behouden, bij hogere temperaturen domineert de gebrande smaak. 
+    Koude koffie, of "cold brew", wordt gemaakt op een gelijkaardige manier als filterkoffie, met het verschil dat men koud water gebruikt. Er bestaan hiervoor ook gespecialiseerde toestellen. Doordat de koffie zich ontwikkelt met water op een andere temperatuur is de smaak volledig anders.
+    </p>
+    <br>
 </body>
 </html>
