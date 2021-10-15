@@ -30,14 +30,12 @@
                 class="dropbtn">Wiki</button>
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url; ?>/wiki/boeken.php">Boeken</a> 
-                        <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Zagen/cirkelzagen.php">Cirkelzagen </a> 
-                        <a href="<?php echo $base_url; ?>/wiki/Gereedschap/hamers.php">Hamers</a>
-                        <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Zagen/kettingzagen.php">Kettingzagen</a>   
-                        <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Schroevendraaiers.php">Schroevendraaiers</a>   
-                        <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Zagen/Handzagen.php">Handzagen</a> 
-                        <a href="<?php echo $base_url; ?>/wiki/koffie.php">Koffie</a>    
-                        <a href="<?php echo $base_url; ?>/wiki/George_Clooney.php">George Clooney</a>   
-
+                        <a href="<?php echo $base_url; ?>/wiki/cirkelzagen.php">Cirkelzagen </a> 
+                        <a href="<?php echo $base_url; ?>/wiki/hamers.php">Hamers</a>
+                        <a href="<?php echo $base_url; ?>/wiki/kettingzagen.php">Kettingzagen</a>   
+                        <a href="<?php echo $base_url; ?>/wiki/Schroevendraaiers.php">Schroevendraaiers</a>   
+                        <a href="<?php echo $base_url; ?>/wiki/Handzagen.php">Handzagen</a> 
+                        <a href="<?php echo $base_url; ?>/wiki/koffie.php">Koffie</a>     
                     </div>
                 </div>
                  
