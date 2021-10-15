@@ -5,29 +5,37 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boeken</title>
+    <title>George Clooney</title>
 </head>
 <body>
     <?php
 
         require_once  '../header.php'
 ?>
-    <h3>Boeken (document)</h3>
-        <p>Het boek is een veelgebruikte manier om informatie vast te leggen in de vorm van tekst en afbeeldingen en om deze informatie weer te geven, op te slaan en te verspreiden. Het is een document van vaak niet al te kleine omvang.</p>
+    
+        <p>
+            George Timothy Clooney (Lexington, Kentucky, 6 mei 1961) is een Amerikaans acteur, regisseur, scenarioschrijver en producent met meer dan dertig filmprijzen en nominaties op zijn naam. Voor de film Syriana won hij een Oscar voor beste mannelijke bijrol. Tevens won hij als producent een Oscar voor beste film voor Argo. Ook kreeg hij Oscarnominaties voor zijn rollen in Michael Clayton en The Descendants, een European Film Award (voor Good Night, and Good Luck) en meerdere Golden Globes (voor Syriana en O Brother, Where Art Thou?).         </p>
         <br>
-    <h3>Omschrijving en etymologie</h3>    
-        <p>Een boek in traditionele zin is een samengevoegde hoeveelheid papier met tekst, afbeeldingen of allebei. Daarnaast wordt met de term de betreffende informatie, of een soortgelijke verzameling informatie, aangeduid ('een boek schrijven', 'een boek downloaden'). Het woord 'boek' is vermoedelijk afkomstig van het Germaanse woord voor beuk, boche. De omslagen van de eerste boeken werden namelijk gemaakt van een rechthoekig stuk (beuken)hout. Het Griekse woord biblia (boeken) is het meervoud van biblion dat oorspronkelijk 'papyrusje' betekende, het materiaal waarop in de oudheid meestal werd geschreven, en later werd gebruikt als aanduiding van papier, geschrift en boek(rol).</p>
+    <h3>Biografie</h3>    
+        <p>
+            Clooney is de zoon van televisiepersoonlijkheid Nick Clooney en Nina Bruce Warren. Hij heeft een oudere zus, Ada Zeidler. Zijn vader is de broer van zangeres-actrice Rosemary Clooney.
+            Op jonge leeftijd leerde Clooney omgaan met de camera; zijn vader nam vaak zijn familie mee naar publieke optredens en de jonge Clooney verscheen zelfs in een van zijn televisieprogramma's. Op de Augusta High School was Clooney een begaafd honkballer, maar tijdens een tryout bij de Cincinnati Reds bleek hij niet goed genoeg om prof te worden.         </p>
         <br>
-    <h3>Geschiedenis</h3>
-        <p>Voor de huidige boekvorm met pagina's, de codex, werd uitgevonden, bestond geschreven informatieoverdracht al in de vorm van inbeiteling op steen, boekrollen van papyrus of perkament, kleitabletten, stukken bot, leren vellen en dergelijke. Korte notities die niet bewaard hoefden te blijven, werden meestal op potscherven geschreven. Dit kwam zo omdat in ieder huishouden schalen, bekers en voorraadvaten van keramiek gebruikt werden en er geregeld wat brak zodat er aan scherven geen gebrek was.</p>
+    <h3>Relaties</h3>
+        <p>
+        Op 15 december 1989 trouwde hij met actrice Talia Balsam, van wie hij in september 1993 weer scheidde. Later bezwoer Clooney dat hij nooit meer opnieuw zou trouwen.[1] Op 27 september 2014 trouwde Clooney echter met de Brits-Libanese mensenrechtenadvocate Amal Alamuddin; twee dagen daarna trouwden ze voor de wet.[2][3] Ze werden in 2017 ouders van een tweeling, een dochter en een zoon.[4] Clooney had in het verleden verschillende relaties onder meer met Lisa Snowdon (2000-2005), Sarah Larson (2007-2008), Elisabetta Canalis (2009-2011) en Stacy Keibler (2011-2013).         </p>
         <br>
-    <h3>Romeinen</h3>
-        <p>De Romeinen schreven hun notities op wastafeltjes. Zo'n wastafel bestond uit een plankje met een klein opstaand randje waarin bijenwas was aangebracht. Met een stift (een stilus) kraste men dan de boodschap in de was. Als de boodschap niet meer actueel was, streek men de was weer glad en kon het wastafeltje opnieuw gebruikt worden. Voor langere boodschappen gebruikte men meerdere wastafeltjes. Als die vervolgens met een (leren) scharniertje met elkaar verbonden werden, ontstond er een soort boekvorm (codex). Het boek zoals wij dat kennen is zodoende waarschijnlijk een Romeinse uitvinding.</p>
+    <h3>Carrière</h3>
+        <p>
+        Na enkele jaren brak hij zijn studie aan de universiteit van Northern Kentucky af, waarna hij enkele willekeurige baantjes had. Het leek erop dat Clooney in de voetsporen van zijn vader zou treden, maar dat veranderde toen zijn oom José Ferrer, echtgenoot van zijn tante Rosemary, naar Kentucky kwam om er met zijn zoons Miguel en Rafael een film over paardenraces te maken. Daarin kreeg Clooney ook een rolletje. De film And They're Off werd nooit uitgebracht, maar Clooney had zijn roeping gevonden.
+
+        Zijn vader, wetende hoe moeilijk het is om als acteur te slagen, probeerde hem tevergeefs van gedachten te laten veranderen. De zomer van 1982 bracht de vastbesloten Clooney door met het oogsten van tabak om zodoende genoeg geld te verdienen om naar Hollywood te gaan. In Californië mocht hij bij zijn tante Rosemary wonen, hoewel deze zijn aspiraties ook niet van harte steunde. Gedurende enkele maanden was hij haar chauffeur op haar tour met zangeressen als Martha Raye. Hierna probeerde Clooney als acteur aan de bak te komen, maar hij werd constant afgewezen, waar zijn stemming erg onder te lijden had. Uiteindelijk voelde Rosemary zich genoodzaakt haar neef te vragen om te vertrekken.
+
+        Clooney trok in bij een vriend, beginnend acteur Tom Matthews. Hij deed klusjes op de sets van reclamespotjes en nam acteerlessen bij The Beverly Hills Playhouse. Onder leiding van Milton Katselas maakte hij zich het vak eigen en als gevolg van een schoolproject vond hij een impresario.
+
+        In de jaren daarna speelde hij verschillende grotere en kleinere rollen, vooral in matig ontvangen series, B-films en nooit uitgebrachte films, maar hij was niet ontevreden; hij deed wat hij het liefste deed: acteren en zich ontwikkelen. Over deze periode zei hij ooit dat hij destijds de bestbetaalde onbekende acteur van Hollywood was. 
+        </p>
         <br>
-    <h3>Middeleeuwen</h3>
-        <p>Om versleten boeken te vervangen of meer exemplaren te maken, werden de manuscripten met de hand en een aangescherpte rietpen of ganzenveer overgeschreven door zogenoemde kopiisten. In de oudheid gebeurde dit meestal in de hellenistische bibliotheken in opdracht van de overheid, soms ook in opdracht van rijke uitgevers die meerdere exemplaren voor de verkoop nodig hadden. In de Middeleeuwen vertrouwde men dit werk meestal toe aan monniken in kloosters. Daar had men bij de kloosterbibliotheek meestal een speciale schrijfruimte voor, het scriptorium. Daar konden de monniken er zo lang over doen als nodig was om een boek netjes over te schrijven; bovendien paste men vaak kalligrafie toe en allerlei versieringen en illustraties. Het woord monnikenwerk heeft daarom de betekenis gekregen van langdurig en nauwkeurig werk. Men gebruikte daarbij zwarte inkt; rode inkt wendde men aan voor de versieringen en de beginletters.
-        De kopiisten schreven nauwgezet maar door onkunde en vermoeidheid niet altijd vrij van fouten boeken over van de zogenoemde legger of het oorspronkelijke bestaande boek. Door de moeizame arbeid van het kopiëren ging gaandeweg het hele lichaam pijn doen. Ofschoon maar één hand bewoog raakte het hele lijf uitgeput. Vergissingen ziet men na controle in golven door de teksten bewegen, op die momenten dat de aandacht van de kopiist na urenlange aandacht verslapt. Zo maakte een kopiist van Godfried van Bouillon de onbekende figuur 'Godefridus van Beliren'. Een andere kopiist schreef ooit over de moeder Gods Maria in plaats van 'een rose boven alle bloemen' nogal verstrooid 'haese boven alle bomen'.
-        Een van de bekendste handschriften uit deze periode is het Brugse Gruuthuse-handschrift van rond 1400, dat oogt als een lijvig boekwerk.</p>
-        <br>
+    
 </body>
 </html>
