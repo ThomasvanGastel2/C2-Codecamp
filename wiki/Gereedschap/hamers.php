@@ -10,7 +10,7 @@
 </head>
 <body>
 <?php
-        require_once '../header.php'
+        require_once '../../header.php'
 ?>
     <h3>Hamer</h3>
         <p>Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het eind de zogenaamde hamerkop.

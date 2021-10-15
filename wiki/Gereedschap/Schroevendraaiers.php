@@ -10,7 +10,7 @@
 <body>
     <?php
 
-        require_once  '../header.php'
+        require_once  '../../header.php'
 ?>
     <h3>Schroevendraaiers</h3>
         <p>Een schroevendraaier is een stuk gereedschap waarmee schroeven worden aangebracht en verwijderd. 

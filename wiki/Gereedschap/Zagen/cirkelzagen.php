@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-        require_once '../header.php'
+        require_once '../../../header.php'
 ?>
 <h3>Cirkelzaag</h3>
         <p>Een cirkelzaag (of radiaalzaag) is een zaag met een blad in de vorm van een stalen schijf, die met een motor tot een zeer hoog toerental wordt aangedreven. De schijf kan in een zaagtafel zijn gemonteerd waarover het te zagen materiaal wordt aangevoerd, of ingebouwd in een constructie samen met een elektromotor tot draagbare handcirkelzaag. Deze heeft een minder krachtige motor en kan ook dunner materiaal zagen.
