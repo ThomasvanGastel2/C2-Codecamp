@@ -36,5 +36,10 @@
     Koude koffie, of "cold brew", wordt gemaakt op een gelijkaardige manier als filterkoffie, met het verschil dat men koud water gebruikt. Er bestaan hiervoor ook gespecialiseerde toestellen. Doordat de koffie zich ontwikkelt met water op een andere temperatuur is de smaak volledig anders.
     </p>
     <br>
+
+    <div class="george_clooney_button">
+        <p>Externe links:</p>
+        <button type="button">George Clooney</button>
+    </div>
 </body>
 </html>

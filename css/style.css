@@ -183,3 +183,9 @@ header{
 .darthvader{
     background-color: #0CB261;
 }
+
+/* Koffie */
+.george_clooney_button{
+    display: flex;
+    justify-content: flex-end;
+}
