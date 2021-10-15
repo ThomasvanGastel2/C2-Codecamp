@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <link rel="shortcut icon" href="../img/favicon.png" type="image">  
