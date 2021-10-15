@@ -47,6 +47,7 @@
                         <a href="<?php echo $base_url; ?>/information/timotydalto.php">Timoty Dalto</a> 
                         <a href="<?php echo $base_url; ?>/information/lukeskywalker.php">Luke Skywalker</a>
                         <a href="<?php echo $base_url; ?>/information/jamesbond.php">James Bond</a>
+                        <a href="<?php echo $base_url; ?>/information/Roger_Moore.php">Roger Moore</a>
                     </div>
                 </div>
             </div>
