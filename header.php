@@ -36,8 +36,7 @@
                         <a href="<?php echo $base_url; ?>/wiki/Schroevendraaiers.php">Schroevendraaiers</a>   
                         <a href="<?php echo $base_url; ?>/wiki/Handzagen.php">Handzagen</a> 
                         <a href="<?php echo $base_url; ?>/wiki/koffie.php">Koffie</a>    
-                        <a href="<?php echo $base_url; ?>/wiki/George_Clooney.php">George Clooney</a>   
-
+                        <a href="<?php echo $base_url; ?>/wiki/George_Clooney.php">George Clooney</a>    
                     </div>
                 </div>
                  
