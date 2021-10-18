@@ -7,7 +7,8 @@
 
 <footer>
 
-<a>Test</a>
+<a>Copyright © 2021 Team Aubergine. All rights reserved.
+</a>
 
 
 </footer>

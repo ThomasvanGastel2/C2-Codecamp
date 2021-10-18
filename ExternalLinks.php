@@ -29,8 +29,8 @@
         </div>
 
         <div class="externelink">
-            <p>Link naar fandango</p>
-        <input type="button" value="movies" 
+            <p>Link naar Fandango</p>
+        <input type="button" value="Fandango" 
         onclick="window.location.href='https://www.fandango.com/'" />
         </div>
         </form> 

@@ -9,12 +9,6 @@ function startTime() {
     document.getElementById("time").innerHTML = h + ":" + m + ":" + s;
   
     var t = setTimeout(startTime, 500);
-    n = new Date();
-    y = n.getFullYear();
-    m = n.getMonth() + 1;
-    d = n.getDate();
-  
-    document.getElementById("date").innerHTML = m + "•" + d + "•" + y;
   }
   
   function checkTime(i) {
