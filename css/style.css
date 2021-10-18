@@ -11,8 +11,13 @@ body{
 .datetime-box{
     max-width: 80%;
     border-radius: 10px;
-    text-align: center;
-    border: 2px solid pink;
+}
+
+/* Contact gegevens */
+
+.contactgegevens{
+    border: 4px solid purple;
+    padding: 10px;
 }
 
 /* Wiki MainPage */

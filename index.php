@@ -32,10 +32,14 @@
                 var dt = new Date();
                 document.getElementById("time").innerHTML = dt.toLocaleTimeString();
             </script>
+        <div class="contactgegevens">   
             <p>Team Aubergine</p>
             <p>Telefoonnummer: 0612589462</p>
-            <p></p>
-            <p></p>
+            <p>Email: teamaubergine@codecamp.nl</p>
+            <p>Adres: Paleis Noordeinde </p>
+            <p>2500 GK Den Haag</p>
+            <p>Postbus 30412</p>
+        </div>
         </div>
     </div>
 </body>
