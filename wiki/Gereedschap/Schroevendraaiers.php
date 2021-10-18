@@ -12,6 +12,8 @@
 
         require_once  '../../header.php'
 ?>
+
+<div class="schroevendraaiers">
     <h3>Schroevendraaiers</h3>
         <p>Een schroevendraaier is een stuk gereedschap waarmee schroeven worden aangebracht en verwijderd. 
         Het bestaat uit een handvat met een metalen steel waarvan het uiteinde zo gevormd is dat het in de kop van een schroef past.
@@ -52,5 +54,6 @@
         Alleen een goede passing is er indien de juiste combinatie schroevendraaier/schroef wordt toegepast. 
         Bij gebruik van het juiste Pozidriv-schroefbit of schroevendraaier zal de schroef ook bij horizontaal houden van de schroef in de schroevendraaier of bit blijven zitten.</p>
         <br>
+    </div>
 </body>
 </html>

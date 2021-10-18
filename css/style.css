@@ -139,22 +139,66 @@ header{
     text-align: center;
 }
 .Blauw{
-    background-color:  #4682b4;
+    background-color: #4682b4;
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
+
 .Rood{
     background-color:   #cc0000;
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 .Oranje{
-    background-color:  #b97d4b;
+    background-color: #b97d4b;
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.Groen{
+    background-color: #317f43;
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 /* INDEX PAGINA */
 .content {
-    position: relative;
     display: flex;
-    width: 100%;
+    width: 50%;
     align-items: center;
     justify-content: space-between;
+    padding: 22px;
+    text-align: center;
+    background-color: purple;
+    margin-top: 120px;
+    border-radius: 22px;
+    border-bottom: 1px solid lightgrey;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
 }
 
 .content .text {
@@ -166,11 +210,10 @@ header{
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     font-weight: 800;
-    margin-top: 80px;
+    margin-top: 120px;
     line-height: 1.5em;
     letter-spacing: .1em;
     font-size: 40px;
-
 }
 
 .content .text h1 span {
@@ -185,18 +228,47 @@ header{
     color: #e7e3e3;
 }
 
+.content p{
+    color: white;
+}
+
+
 /* WIKI PAGINA */
 
 .timotydalto{
-    background-color: #CEE40B;
+    background-color: #317f43;
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .lukeskywalker{
-    background-color: #0CB261;
+    background-color: #317f43;
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .darthvader{
-    background-color: #0CB261;
+    background-color: #CEE40B;
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 /* Koffie */
@@ -221,3 +293,124 @@ div.line {
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
   }
+
+  /* Boeken */
+
+  .boeken{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  /* Koffie */
+
+  .koffie{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  /* zagen */
+
+  .cirkelzaag{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .handzagen{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .kettingzagen{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  /* Gereedschap */
+
+  .hamers{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .schroevendraaiers{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  /* Information */
+
+  .jamesbond{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .rogermoore{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .georgeclooney{
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 22px;
+  }
+  

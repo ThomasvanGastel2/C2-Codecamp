@@ -12,7 +12,9 @@
 
         require_once  '../header.php'
 ?>
-    
+
+<div class="georgeclooney">
+    <h1>George Clooney</h1>
         <p>
             George Timothy Clooney (Lexington, Kentucky, 6 mei 1961) is een Amerikaans acteur, regisseur, scenarioschrijver en producent met meer dan dertig filmprijzen en nominaties op zijn naam. Voor de film Syriana won hij een Oscar voor beste mannelijke bijrol. Tevens won hij als producent een Oscar voor beste film voor Argo. Ook kreeg hij Oscarnominaties voor zijn rollen in Michael Clayton en The Descendants, een European Film Award (voor Good Night, and Good Luck) en meerdere Golden Globes (voor Syriana en O Brother, Where Art Thou?).         </p>
         <br>
@@ -36,6 +38,6 @@
         In de jaren daarna speelde hij verschillende grotere en kleinere rollen, vooral in matig ontvangen series, B-films en nooit uitgebrachte films, maar hij was niet ontevreden; hij deed wat hij het liefste deed: acteren en zich ontwikkelen. Over deze periode zei hij ooit dat hij destijds de bestbetaalde onbekende acteur van Hollywood was. 
         </p>
         <br>
-    
+</div>
 </body>
 </html>

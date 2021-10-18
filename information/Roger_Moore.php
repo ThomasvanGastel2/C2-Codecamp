@@ -15,6 +15,8 @@
         require_once '../header.php'
         ?>
     </header>
+
+<div class="rogermoore">
     <h1>Roger Moore</h1>
     
     <p>
@@ -51,6 +53,6 @@
         Op 9 december 1946 trouwde Moore met schaatsster Doorn Van Steyn (1922-2010). In 1953 verliet hij haar voor zangeres Dorothy Squires (1915-1998), met wie hij op 6 juli van dat jaar trouwde. Squires was twaalf jaar ouder en toen veel beroemder dan Moore. In 1961 verliet Moore ook haar tijdens de opnamen voor Il Ratto Delle Sabine in Italië, waar hij Luisa Mattioli (1936-2021) had leren kennen, die ook in die film speelde. Ze gingen samenwonen en trouwden in 1969, want pas toen was Squires bereid te scheiden. Met Mattioli kreeg hij een dochter, Deborah (27 oktober 1963), en twee zoons: Geoffrey (28 juli 1966) en Christian (18 augustus 1973). Na ruim 25 jaar werd het huwelijk in 1996 onverwacht beëindigd. Op 10 maart 2002 trouwde hij voor de vierde keer, met de Zweedse Christina 'Kiki' Tholstrup (1942). Met haar bleef hij getrouwd tot aan zijn dood. Ze woonden in Zwitserland en Monte Carlo.
         Op 23 mei 2017 overleed Moore na een kort ziekbed aan kanker in zijn Zwitserse woonplaats Crans-Montana.[2] Op 10 juni werd hij begraven te Monaco, na een besloten plechtigheid.[3] 
     </p>
-
+</div>
 </body>
 </html>

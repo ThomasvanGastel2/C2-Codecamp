@@ -14,6 +14,7 @@
         require_once '../header.php'
         ?>
     </header>
+<div class="jamesbond">
     <h1>Alle James Bond films met Roger Moore</h1>
     <h3>"Live and Let Die" – 1973</h3>
     <p>Live and Let Die is de achtste James Bondfilm, geproduceerd door EON Productions. De film werd uitgebracht in 1973 en is gebaseerd op het gelijknamige boek van Ian Fleming uit 1954. Het is de eerste Bondfilm waarin Roger Moore de rol van Bond vertolkte, ter vervanging van Sean Connery. Voodoo en Tarot spelen een belangrijke rol in de film. </p>    
@@ -34,6 +35,6 @@ De film kwam in hetzelfde jaar uit als de onofficiële (niet van EON Productions
 De film kwam voor het eerst uit op 6 juni 1983 en werd tussen 10 augustus 1982 en 25 januari 1983 op verschillende locaties opgenomen. Het budget werd geschat op 27,5 miljoen dollar. De film verdiende zichzelf ruim terug: hij bracht wereldwijd bijna 190 miljoen dollar op. Roger Moore ontving 4 miljoen dollar voor zijn werk aan deze film. </p>
     <h3>"A View to a Kill" – 1985</h3>
     <p>A View to a Kill (1985) is de veertiende film in de James Bondserie, geregisseerd door John Glen. Het was de zevende en laatste film waarin de rol van agent 007 werd gespeeld door Roger Moore. </p>
-
+</div>
 </body>
 </html>

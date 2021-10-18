@@ -12,6 +12,7 @@
 
         require_once  '../../../header.php'
 ?>
+<div class="handzagen">
     <h3>Handzaag</h3>
         <p>Een handzaag is een zaag met een taps toelopend, veerkrachtig stalen zaagblad dat voorzien is van een handvat. Het blad is ongeveer 1 mm dik, 400 à 500 mm lang, en circa 100 mm breed.
 
@@ -23,6 +24,6 @@ De zaag kan voorzien zijn van zowel geharde, als ongeharde vertanding. Niet geha
 
 In Vlaanderen noemt men de handzaag ook wel "Sint-Jozefszaag", of afgekort "jefzaag", een verwijzing naar Sint Jozef, patroonheilige van schrijnwerkers en timmerlui.[1] </p>
         <br>
-    
+</div>
 </body>
 </html>

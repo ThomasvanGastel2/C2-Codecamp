@@ -12,6 +12,8 @@
 
         require_once  '../header.php'
 ?>
+
+<div class="koffie">
     <h3>Koffie</h3>
     <p>
         Koffie is een meestal warm genuttigde drank, die wordt bereid op basis van water en gedroogde en gebrande pitten van de koffieplant (Coffea spp.) 
@@ -42,5 +44,6 @@
         <button type="button"    
         onclick="window.location.href='http://localhost/C2-Codecamp/information/George_Clooney.php'" />>George Clooney</button>
     </div>
+</div>
 </body>
 </html>
