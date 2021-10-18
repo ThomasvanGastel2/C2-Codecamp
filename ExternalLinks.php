@@ -14,14 +14,26 @@
         require_once 'header.php'
         ?>
     </header>
+    <div class="externelinks">
     <form>
-    <input type="button" value="IMDB" 
-    onclick="window.location.href='https://www.IMDB.com'" />
-    <input type="button" value="Videoland" 
-    onclick="window.location.href='https://www.Videoland.com'" />
-    <input type="button" value="movies" 
-    onclick="window.location.href='https://www.fandango.com/'" />
-    </form> 
+        <div class="externelink">
+            <p>link naar IMDB</p>
+                <input type="button" value="IMDB" 
+                onclick="window.location.href='https://www.IMDB.com'" />
+            </div>
+        
+        <div class="externelink">
+            <p>Link naar Videoland</p>
+        <input type="button" value="Videoland" 
+        onclick="window.location.href='https://www.Videoland.com'" />
+        </div>
 
+        <div class="externelink">
+            <p>Link naar fandango</p>
+        <input type="button" value="movies" 
+        onclick="window.location.href='https://www.fandango.com/'" />
+        </div>
+        </form> 
+    </div>
 </body>
 </html>
