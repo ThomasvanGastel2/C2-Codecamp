@@ -204,3 +204,20 @@ header{
     display: flex;
     justify-content: flex-end;
 }
+/* Klok */
+div.time {
+    text-align: center;
+    font-size: 150px;
+    position: relative;
+    color: grey;
+    letter-spacing: 2px;
+  }
+  
+div.line {
+    line-height: 1;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
