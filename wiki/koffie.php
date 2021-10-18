@@ -39,7 +39,8 @@
 
     <div class="george_clooney_button">
         <p>Externe links:</p>
-        <button type="button">George Clooney</button>
+        <button type="button"    
+        onclick="window.location.href='http://localhost/C2-Codecamp/information/George_Clooney.php'" />>George Clooney</button>
     </div>
 </body>
 </html>
