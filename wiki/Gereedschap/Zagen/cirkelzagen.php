@@ -39,5 +39,9 @@
         <p>Voor het zagen van steen, beton en asfalt wordt gebruikgemaakt van een diamantcirkelzaag. Het zaagblad is voorzien van diamantslijpsel. Tijdens het zagen wordt veel water op de cirkelzaag gesproeid om verhitting en overmatige slijtage tegen te gaan. Diamantcirkelzaagmachines worden vaak pneumatisch aangedreven via een compressor.</p>
         <br>
 </div>
+<?php
+
+    require_once  '../../../footer.php'
+    ?>
 </body>
 </html>

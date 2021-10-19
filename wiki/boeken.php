@@ -34,5 +34,9 @@
             Een van de bekendste handschriften uit deze periode is het Brugse Gruuthuse-handschrift van rond 1400, dat oogt als een lijvig boekwerk.</p>
             <br>
     </div>
+    <?php
+
+    require_once  '../footer.php'
+    ?>
 </body>
 </html>

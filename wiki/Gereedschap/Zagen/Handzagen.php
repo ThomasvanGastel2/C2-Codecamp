@@ -27,5 +27,9 @@ De zaag kan voorzien zijn van zowel geharde, als ongeharde vertanding. Niet geha
 In Vlaanderen noemt men de handzaag ook wel "Sint-Jozefszaag", of afgekort "jefzaag", een verwijzing naar Sint Jozef, patroonheilige van schrijnwerkers en timmerlui.[1] </p>
         <br>
 </div>
+<?php
+
+    require_once  '../../../footer.php'
+    ?>
 </body>
 </html>

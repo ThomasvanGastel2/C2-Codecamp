@@ -67,6 +67,10 @@
         Na de slag op Endor gaat zijn verhaal verder. Zo zou Luke na de films een zeer gerespecteerd Jedi-meester worden en vele generaties Padawan opleiden om de eeuwenoude traditie van de Jedi opnieuw te doen opleven. Tevens ontmoet hij Mara Jade, die in eerste instantie erop uit is om hem te doden, maar later krijgen ze gevoelens voor elkaar en trouwen ze.</p>
     <br>
 </div>
+<?php
+
+    require_once  '../footer.php'
+    ?>
 
 
 </body>

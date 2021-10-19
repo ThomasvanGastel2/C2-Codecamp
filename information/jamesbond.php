@@ -39,5 +39,9 @@ De film kwam voor het eerst uit op 6 juni 1983 en werd tussen 10 augustus 1982 e
     <h3>"A View to a Kill" – 1985</h3>
     <p>A View to a Kill (1985) is de veertiende film in de James Bondserie, geregisseerd door John Glen. Het was de zevende en laatste film waarin de rol van agent 007 werd gespeeld door Roger Moore. </p>
 </div>
+<?php
+
+    require_once  '../footer.php'
+    ?>
 </body>
 </html>
