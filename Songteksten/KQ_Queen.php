@@ -14,9 +14,14 @@
     ?>
         <div class="ContainerSongtekst">
             <div class="Blauw">
+<<<<<<< Updated upstream
                 <p>
                     <h2>"Killer Queen"</h2><br>
+=======
+                    <h2>"Killer Queen"</h2>
+>>>>>>> Stashed changes
                     <br>
+                    <p>
                     She keeps Moët et Chandon<br>
                     In her pretty cabinet<br>
                     'Let them eat cake,' she says<br>

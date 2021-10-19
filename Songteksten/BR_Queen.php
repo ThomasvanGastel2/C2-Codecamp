@@ -14,9 +14,14 @@
     ?>
         <div class="ContainerSongtekst">
             <div class="Blauw">
+<<<<<<< Updated upstream
                 <p>
                     <h2>"Bohemian Rhapsody"</h2><br>
+=======
+                    <h2>"Bohemian Rhapsody"</h2>
+>>>>>>> Stashed changes
                     <br>
+                <p>
                     Is this the real life?<br>
                     Is this just fantasy?<br>
                     Caught in a landslide<br>
