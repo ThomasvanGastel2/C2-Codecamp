@@ -52,6 +52,14 @@
 
                     </div>
                 </div>
+                <div class="dropdown">
+                <button
+                class="dropbtn">Dranken</button>
+                    <div class="dropdown-content">
+                        <a href="<?php echo $base_url; ?>/dranken/Warme Dranken/Warmdrank.php">Warme dranken</a> 
+                        <a href="<?php echo $base_url; ?>/dranken/Frisdranken/Frisdrank.php">Frisdrank</a> 
+                    </div>
+                </div>
             </div>
         </nav>
     </div>
