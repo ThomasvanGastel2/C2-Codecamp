@@ -137,6 +137,8 @@ header{
 /* Songtekst */
 .ContainerSongtekst{
     text-align: center;
+    color: white;
+    font-size: 50px;
 }
 .Blauw{
     background-color: #4682b4;
