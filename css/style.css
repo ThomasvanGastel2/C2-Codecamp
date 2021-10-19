@@ -131,7 +131,12 @@ header{
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color: #ccc; border-radius: 10px;}
-
+/* Footer */
+footer{
+    text-align: center;
+    border-top: 1px solid lightgrey;
+    box-shadow: 0px -15px 10px -10px  #111; 
+}
   
 
 /* Songtekst */
@@ -197,6 +202,7 @@ header{
     text-align: center;
     background-color: purple;
     margin-top: 120px;
+    margin-bottom: 275px;
     border-radius: 22px;
     border-bottom: 1px solid lightgrey;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
@@ -233,8 +239,6 @@ header{
 .content p{
     color: white;
 }
-
-
 
 
 /* WIKI PAGINA */
@@ -417,19 +421,14 @@ div.line {
     margin-bottom: 40px;
     padding: 22px;
   }
-  
-  /* ExterneLinks */
-
-  .externelinks{
-    /* justify-content: center; */
+  .frisdrank{
+    padding: 22px;
+    justify-content: center;
     width: 50%;
     border-radius: 22px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-    padding: 22px;
-    display: flex;
-    justify-content: space-between;
   }
-
+  
