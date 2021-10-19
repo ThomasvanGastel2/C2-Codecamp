@@ -55,5 +55,9 @@
         Bij gebruik van het juiste Pozidriv-schroefbit of schroevendraaier zal de schroef ook bij horizontaal houden van de schroef in de schroevendraaier of bit blijven zitten.</p>
         <br>
     </div>
+    <?php
+
+    require_once  '../../footer.php'
+    ?>
 </body>
 </html>

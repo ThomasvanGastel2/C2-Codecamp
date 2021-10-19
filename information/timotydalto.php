@@ -26,6 +26,10 @@
             <p>Hij speelde ook in veel Britse kostuumdrama's, waaronder Wuthering Heights (1970) en Jane Eyre (1983).</p>
             <br>
     </div>
+    <?php
+
+    require_once  '../footer.php'
+    ?>
 
 </body>
 </html>

@@ -54,5 +54,9 @@
         Op 23 mei 2017 overleed Moore na een kort ziekbed aan kanker in zijn Zwitserse woonplaats Crans-Montana.[2] Op 10 juni werd hij begraven te Monaco, na een besloten plechtigheid.[3] 
     </p>
 </div>
+<?php
+
+    require_once  '../footer.php'
+    ?>
 </body>
 </html>

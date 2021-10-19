@@ -34,6 +34,10 @@
         <li>Tijdens de burgeroorlog in de Oekraïne transformeerden inwoners van Odessa een standbeeld van Lenin in Darth Vader.</li>
     </ul>
 </div>
+<?php
+
+    require_once  '../footer.php'
+    ?>
 
 
 </body>

@@ -12,6 +12,7 @@
 
         require_once  '../../header.php'
 ?>
+
     <h3>Frisdrank</h3>
     <p>
         Frisdrank is het in 1956 door reclamemaker Dick Schiferli bedachte woord voor koolzuurhoudende limonade. Het wordt ook wel priklimonade of prik genoemd. In ruimere zin worden, volgens de Nederlandse Warenwet, ook niet-koolzuurhoudende limonades, sportdranken en energiedranken tot de frisdranken gerekend.
@@ -42,6 +43,10 @@
     <p>
     Sinas is in Nederland de benaming voor de doorgaans gele of oranje, meestal koolzuurhoudende frisdrank met sinaasappelsmaak. Zoals de meeste frisdranken bevat sinas veel suiker of in de light-versie kunstmatige zoetstoffen. Het gehalte aan sinaasappelsap bedraagt ten minste 4%. Bekende merken zijn Fanta (van de Coca-Cola Company) en Sisi (Vrumona); Orangina onderscheidt zich doordat er werkelijk vruchtvlees in zit.     <br>
     </p>
+    <?php
+
+    require_once  '../../footer.php'
+    ?>
 
     
 </body>

@@ -45,5 +45,9 @@
         onclick="window.location.href='http://localhost/C2-Codecamp/information/George_Clooney.php'" />>George Clooney</button>
     </div>
 </div>
+<?php
+
+    require_once  '../footer.php'
+    ?>
 </body>
 </html>
