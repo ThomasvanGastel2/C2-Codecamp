@@ -21,6 +21,7 @@
         Ze vinden hun oorsprong in Ethiopië, Jemen en Soedan.
         <br>
     </p>
+    <img src="../img/koffie.jpg" alt="koffie">
 
     <h3>Productie</h3>
     <p>

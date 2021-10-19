@@ -16,6 +16,7 @@
     <h1>Luke Skywalker</h1>
         <p>Luke Skywalker is een personage uit de Star Warssaga, gespeeld door acteur Mark Hamill. Luke is de tweelingbroer van prinses Leia. Hun ouders zijn Padmé Amidala en Anakin Skywalker. Skywalker werd opgevoed door zijn oom Owen Lars en tante Beru Whitesun Lars.</p>
         <br>
+        <img src="../img/lukeskywalker.png" alt="lukeskywalker">
 
     <h2>Biografie</h2>
         <h3>Episode III: Revenge of the Sith</h3>

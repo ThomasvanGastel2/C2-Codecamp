@@ -17,6 +17,7 @@
         <p>Darth Vader is een personage uit de Star Wars-films. Hij is als Sith-leerling ondergeschikt aan keizer Palpatine, ook bekend als Darth Sidious.
         In de jaren 1977, 1980 en 1983 werd Darth Vader gespeeld door acteur David Prowse en stuntman Bob Anderson. Zijn stem werd echter ingesproken door James Earl Jones, omdat diens stem veel zwaarder, duisterder en dreigender klonk.</p>
         <br>
+        <img src="../img/darthvader.png" alt="dartvader">
 
     <h2>Acteurs</h2>
     <p>In de eerste drie opgenomen films (Episodes IV, V en VI) speelt David Prowse de rol van Darth Vader (behalve in enkele gevechtsscènes, waar Bob Anderson hem speelt). De stem wordt gedubd door de acteur James Earl Jones. In deze films is het gezicht van Darth Vader slechts twee keer te zien. Vlak voordat Darth Vader overlijdt, in Episode VI, wordt zijn masker afgedaan en wordt hij gespeeld door Sebastian Shaw. Later is hij te zien als geest. In de oorspronkelijke versie is Shaw hier opnieuw te zien, maar in de opnieuw uitgebrachte dvd-versie is deze geestverschijning aangepast, zodat Hayden Christensen te zien is. Hayden speelde Anakin Skywalker in de prequeltrilogie (Episodes I, II en III), het personage wat aan het eind van Episode III transformeert in Darth Vader.

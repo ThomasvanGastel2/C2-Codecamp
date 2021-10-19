@@ -15,7 +15,7 @@
         <div class="ContainerSongtekst">
             <div class="Oranje">
                 <p>
-                "Uprising"<br>
+                <h2>"Uprising"</h2><br>
                 <br>
                     Paranoia is in bloom,<br>
                     The PR transmissions will resume<br>

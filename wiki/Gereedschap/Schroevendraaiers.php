@@ -20,7 +20,8 @@
         Doorgaans worden schroeven rechtsom vastgedraaid en linksom los. 
         </p>        
         <br>
-    
+        <img src="../../img/schroevendraaiers.jpg" alt="schroevendraaiers">
+
         <p>
         Schroevendraaiers zijn in velerlei soorten, afmetingen en kwaliteiten verkrijgbaar. 
         Er bestaan schroevendraaiers met een platte punt, alsook met een ster- of kruiskop. 

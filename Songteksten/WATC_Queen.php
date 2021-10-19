@@ -15,7 +15,7 @@
         <div class="ContainerSongtekst">
             <div class="Blauw">
                 <p>
-                    "We Are The Champions"<br>
+                    <h2>"We Are The Champions"</h2><br>
                     <br>
                     I've paid my dues<br>
                     Time after time.<br>

@@ -21,7 +21,9 @@
     
     <p>
         Sir Roger George Moore (Stockwell, Lambeth, Londen, 14 oktober 1927 – Crans-Montana, Zwitserland, 23 mei 2017) was een Britse acteur die vooral bekend werd door zijn rollen in de series Ivanhoe, The Saint en The Persuaders (in Nederland uitgezonden als De Versierders en in België als De Speelvogels). Verder speelde hij de rol van geheim agent James Bond in zeven Bondfilms, die uitkwamen tussen 1973 en 1985. 
-    </p>    
+    </p>
+    <img src="../img/rogermoore.png" alt="rogermoore">
+    
     <h3>Loopbaan</h3>
     <h5>Jonge jaren</h5>
     <p>

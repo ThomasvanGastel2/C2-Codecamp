@@ -15,7 +15,7 @@
         <div class="ContainerSongtekst">
             <div class="Oranje">
                 <p>
-                "Uprising"<br>
+                <h2>"Uprising"</h2><br>
                 <br>
                 Allow me in your tub<br>
                 Allow me in your club<br>

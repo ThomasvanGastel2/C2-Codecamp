@@ -20,24 +20,6 @@ body{
     padding: 10px;
 }
 
-/* Wiki MainPage */
-.button_wiki{
-
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 2rem;
-}
-
-.button_wiki div{
-    background-color: antiquewhite;
-    padding: 10px;
-}
-
-.button_wiki button{
-    padding: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
 /* Header*/
 .container{
     max-width: 1024px;
@@ -143,7 +125,7 @@ footer{
 .ContainerSongtekst{
     text-align: center;
     color: white;
-    font-size: 50px;
+    font-size: 20px;
 }
 .Blauw{
     background-color: #4682b4;
@@ -253,6 +235,7 @@ footer{
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
 }
 
 .lukeskywalker{
@@ -265,6 +248,7 @@ footer{
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
 }
 
 .darthvader{
@@ -277,6 +261,7 @@ footer{
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
 }
 
 /* Koffie */
@@ -313,6 +298,12 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
+  }
+
+  .boeken img{
+    width: 760px;
+    height: 300px;
   }
 
   /* Koffie */
@@ -326,6 +317,7 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
   }
 
   /* zagen */
@@ -339,6 +331,7 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
   }
 
   .handzagen{
@@ -350,6 +343,7 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
   }
 
   .kettingzagen{
@@ -361,6 +355,7 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
   }
 
   /* Gereedschap */
@@ -374,6 +369,7 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
   }
 
   .schroevendraaiers{
@@ -385,6 +381,7 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
   }
 
   /* Information */
@@ -398,6 +395,7 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
   }
 
   .rogermoore{
@@ -409,6 +407,7 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
   }
 
   .georgeclooney{
@@ -420,8 +419,9 @@ div.line {
     margin-top: 40px;
     margin-bottom: 40px;
     padding: 22px;
+    font-size: 20px;
   }
-  .frisdrank{
+  .frisdranken{
     padding: 22px;
     justify-content: center;
     width: 50%;
@@ -430,5 +430,108 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+    font-size: 20px;
+  }
+
+  .warmedranken{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 20px;
   }
   
+
+  /* IMG */
+
+  .jamesbond img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .darthvader img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .timotydalto img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .rogermoore img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .lukeskywalker img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .cirkelzaag img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .hamers img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .kettingzagen img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .schroevendraaiers img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .handzagen img{
+    width: 760px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .koffie img{
+    border-radius: 10px;
+    width: 760px;
+    height: 300px;
+  }
+
+  .georgeclooney img{
+    border-radius: 10px;
+    width: 760px;
+    height: 300px;
+  }
+
+  /* externe links */
+
+  .externelinks{
+    padding: 22px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 20px;
+  }

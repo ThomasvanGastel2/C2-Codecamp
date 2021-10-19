@@ -15,7 +15,7 @@
         <div class="ContainerSongtekst">
             <div class="Rood">
                 <p>
-                "Transylvania "<br>
+                <h2>"Transylvania"</h2><br>
                 <br>
                 [Instrumental]
                 <br>

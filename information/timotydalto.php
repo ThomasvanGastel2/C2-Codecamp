@@ -16,6 +16,7 @@
         <h1>Timoty Dalton</h1>
             <p>Timothy Dalton (Colwyn Bay, 21 maart 1946) is een Brits acteur.</p>
             <br>
+            <img src="../img/timdalto.png" alt="TimothyDalto">
 
         <h2>Biografie</h2>
             <p>Dalton groeide op in Manchester. Nadat hij zijn school had afgemaakt, ging hij naar het National Youth Theatre. Hij studeerde twee jaar lang aan de Royal Academy of Dramatic Art. In 1966 ging hij naar het Birmingham Repertory Theatre, waar hij hoofdrollen speelde.</p>

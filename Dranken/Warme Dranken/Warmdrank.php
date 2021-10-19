@@ -12,6 +12,7 @@
 
         require_once  '../../header.php'
 ?>
+<div class="warmedranken">
     <h3>Koffie</h3>
     <p>
     Koffie is een meestal warm genuttigde drank, die wordt bereid op basis van water en gedroogde en gebrande pitten van de koffieplant (Coffea spp.) 
@@ -31,7 +32,7 @@
 
 De naam thee komt waarschijnlijk uit het Chinese dialect Minnanyu. </p>
 
-
+</div>
     
 </body>
 </html>

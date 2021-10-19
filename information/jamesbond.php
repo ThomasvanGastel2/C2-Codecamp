@@ -15,7 +15,10 @@
         ?>
     </header>
 <div class="jamesbond">
+
     <h1>Alle James Bond films met Roger Moore</h1>
+    <img src="../img/rogermoore.png" alt="rogermoore">
+
     <h3>"Live and Let Die" – 1973</h3>
     <p>Live and Let Die is de achtste James Bondfilm, geproduceerd door EON Productions. De film werd uitgebracht in 1973 en is gebaseerd op het gelijknamige boek van Ian Fleming uit 1954. Het is de eerste Bondfilm waarin Roger Moore de rol van Bond vertolkte, ter vervanging van Sean Connery. Voodoo en Tarot spelen een belangrijke rol in de film. </p>    
     <h3>"The Man with the Golden Gun" – 1974</h3>

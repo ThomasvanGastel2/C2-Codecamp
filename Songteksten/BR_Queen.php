@@ -15,7 +15,7 @@
         <div class="ContainerSongtekst">
             <div class="Blauw">
                 <p>
-                    "Bohemian Rhapsody"<br>
+                    <h2>"Bohemian Rhapsody"</h2><br>
                     <br>
                     Is this the real life?<br>
                     Is this just fantasy?<br>

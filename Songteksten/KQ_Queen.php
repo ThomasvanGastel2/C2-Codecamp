@@ -15,7 +15,7 @@
         <div class="ContainerSongtekst">
             <div class="Blauw">
                 <p>
-                    "Killer Queen"<br>
+                    <h2>"Killer Queen"</h2><br>
                     <br>
                     She keeps Moët et Chandon<br>
                     In her pretty cabinet<br>
