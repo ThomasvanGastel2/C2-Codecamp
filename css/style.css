@@ -21,10 +21,6 @@ body {
     align-items: flex-end;
 }
 
-.text{
-  color: white;
-}
-
 .infobox {
     font-size: 16px;
 }
@@ -104,7 +100,6 @@ header {
     font-family: 'Noto Sans JP', sans-serif;
     background-color: white;
     color: purple;
-    ;
     padding: 3px;
     font-size: 22px;
     margin-right: 20px;
@@ -293,7 +288,6 @@ footer{
 }
 
 .darthvader {
-    background-color: #CEE40B;
     padding: 22px;
     justify-content: center;
     width: 50%;
@@ -648,4 +642,49 @@ ul.breadcrumb li a {
 ul.breadcrumb li a:hover {
   color: #01447e;
   text-decoration: underline;
+}
+
+/* Kleuren */
+
+.text{
+  color: white;
+}
+
+.links a {
+    color: purple;
+}
+
+.dropbtn {
+    background-color: white;
+    color: purple;
+}
+
+.Blauw{
+    background-color: #4682b4;
+}
+
+.Rood{
+    background-color: #cc0000;
+}
+
+.Oranje{
+    background-color: #b97d4b;
+}
+
+.content{
+    background-color: purple;
+}
+
+.timotydalto{
+    background-color: #317f43;
+    color: white;
+}
+
+.lukeskywalker{
+    background-color: #317f43;
+    color: white;
+}
+
+.darthvader{
+    background-color: #CEE40B;
 }
