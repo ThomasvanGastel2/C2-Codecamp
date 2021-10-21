@@ -32,4 +32,6 @@
     <?php
     require_once 'footer.php'
     ?>
+
+    <p>hoi</p>
 </html>
