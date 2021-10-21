@@ -14,9 +14,10 @@
     ?>
         <div class="ContainerSongtekst">
             <div class="Blauw">
+
                 <p>
                     <h2>"Bohemian Rhapsody"</h2><br>
-                    <br>
+                    <h2>"Queen"</h2><br>
                 <p>
                     Is this the real life?<br>
                     Is this just fantasy?<br>

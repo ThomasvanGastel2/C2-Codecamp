@@ -37,10 +37,7 @@
     <p>
     Sinas is in Nederland de benaming voor de doorgaans gele of oranje, meestal koolzuurhoudende frisdrank met sinaasappelsmaak. Zoals de meeste frisdranken bevat sinas veel suiker of in de light-versie kunstmatige zoetstoffen. Het gehalte aan sinaasappelsap bedraagt ten minste 4%. Bekende merken zijn Fanta (van de Coca-Cola Company) en Sisi (Vrumona); Orangina onderscheidt zich doordat er werkelijk vruchtvlees in zit.     <br>
     </p>
-    <?php
 
-    require_once  '../../footer.php'
-    ?>
 
     <div class="george_clooney_button">
         <p>Externe links:</p>
@@ -50,4 +47,8 @@
 
 </div>
 </body>
+<?php
+
+require_once  '../../footer.php'
+?>
 </html>

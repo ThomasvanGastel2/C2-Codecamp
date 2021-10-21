@@ -14,15 +14,11 @@
     ?>
         <div class="ContainerSongtekst">
             <div class="Rood">
-<<<<<<< Updated upstream
+                
                 <p>
                 <h2>"Madness"</h2><br>
-=======
-                <h2>
-                "Madness"<br>
-                </h2>
+                <h2>"Muse"</h2><br>
                 <p>
->>>>>>> Stashed changes
                 <br>
                 (Ma-ma-ma-ma-ma-ma-ma...)<br>
                 <br>

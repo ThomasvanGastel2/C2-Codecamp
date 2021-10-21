@@ -8,10 +8,6 @@ body {
     padding: 0;
 }
 
-.datetime {}
-
-.time {}
-
 .text {
     display: flex;
     flex-direction: column;
@@ -23,6 +19,10 @@ body {
     display: flex;
     flex-direction: row;
     align-items: flex-end;
+}
+
+.text{
+  color: white;
 }
 
 .infobox {
@@ -39,8 +39,6 @@ body {
     align-items: center;
     justify-items: left;
 }
-
-
 /* Contact gegevens */
 
 .contactgegevens {
@@ -49,35 +47,6 @@ body {
     display: flex;
 }
 
-<<<<<<< Updated upstream
-=======
-
-/* Wiki MainPage */
-
-.button_wiki {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 2rem;
-}
-
-.button_wiki div {
-    background-color: antiquewhite;
-    padding: 10px;
-}
-
-.button_wiki button {
-    padding: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-p {
-    display: flex;
-    flex-direction: row;
-}
-
-
->>>>>>> Stashed changes
 /* Header*/
 
 .container {
@@ -163,25 +132,16 @@ header {
     margin-bottom: 5px;
     text-decoration: none;
     display: block;
-<<<<<<< Updated upstream
-  }
-  
-  .dropdown-content a:hover {background-color: #ddd;}
-  
-  .dropdown:hover .dropdown-content {display: block;}
-  
-  .dropdown:hover .dropbtn {background-color: #ccc; border-radius: 10px;}
-/* Footer */
-footer{
-    margin-top: 25%;
-    text-align: center;
-    border-top: 1px solid lightgrey;
-    box-shadow: 0px -15px 10px -10px  #111; 
-}
-  
-=======
 }
 
+/* Footer */
+
+footer{
+  margin-top: 25%;
+  text-align: center;
+  border-top: 1px solid lightgrey;
+}
+  
 .dropdown-content a:hover {
     background-color: #ddd;
 }
@@ -194,8 +154,6 @@ footer{
     background-color: #ccc;
     border-radius: 10px;
 }
-
->>>>>>> Stashed changes
 
 /* Songtekst */
 
@@ -317,6 +275,7 @@ footer{
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 20px;
+    color: white;
 }
 
 .lukeskywalker {
@@ -330,6 +289,7 @@ footer{
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 20px;
+    color: white;
 }
 
 .darthvader {
@@ -385,7 +345,6 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
 
@@ -393,10 +352,6 @@ div.line {
     width: 760px;
     height: 300px;
   }
-=======
-}
-
->>>>>>> Stashed changes
 
 /* Koffie */
 
@@ -409,13 +364,8 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
-=======
-}
-
->>>>>>> Stashed changes
 
 /* zagen */
 
@@ -428,12 +378,8 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
-=======
-}
->>>>>>> Stashed changes
 
 .handzagen {
     padding: 22px;
@@ -444,12 +390,8 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
-=======
-}
->>>>>>> Stashed changes
 
 .kettingzagen {
     padding: 22px;
@@ -460,12 +402,8 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
-=======
-}
->>>>>>> Stashed changes
 
 
 /* Gereedschap */
@@ -479,12 +417,8 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
-=======
-}
->>>>>>> Stashed changes
 
 .schroevendraaiers {
     padding: 22px;
@@ -495,12 +429,8 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
-=======
-}
->>>>>>> Stashed changes
 
 
 /* Information */
@@ -514,12 +444,8 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
-=======
-}
->>>>>>> Stashed changes
 
 .rogermoore {
     padding: 22px;
@@ -530,12 +456,8 @@ div.line {
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
-=======
-}
->>>>>>> Stashed changes
 
 .georgeclooney {
     justify-content: center;
@@ -546,21 +468,11 @@ div.line {
     margin-top: 40px;
     margin-bottom: 40px;
     padding: 22px;
-<<<<<<< Updated upstream
     font-size: 20px;
   }
   .frisdranken{
     padding: 22px;
     justify-content: center;
-=======
-}
-
-
-/* ExterneLinks */
-
-.externelinks {
-    /* justify-content: center; */
->>>>>>> Stashed changes
     width: 50%;
     border-radius: 22px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
@@ -572,7 +484,6 @@ div.line {
 
   .warmedranken{
     padding: 22px;
-<<<<<<< Updated upstream
     justify-content: center;
     width: 50%;
     border-radius: 22px;
@@ -598,9 +509,11 @@ div.line {
   /* IMG */
 
   .jamesbond img{
-    width: 760px;
+    width: 600px;
     height: 300px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .darthvader img{
@@ -610,15 +523,27 @@ div.line {
   }
 
   .timotydalto img{
-    width: 760px;
+    width: 600px;
     height: 300px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .rogermoore img{
-    width: 760px;
+    width: 600px;
     height: 300px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .georgeclooney img{
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .lukeskywalker img{
@@ -628,11 +553,13 @@ div.line {
   }
 
   .cirkelzaag img{
-    width: 760px;
+    width: 600px;
     height: 300px;
     border-radius: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .hamers img{
@@ -648,9 +575,11 @@ div.line {
   }
 
   .schroevendraaiers img{
-    width: 760px;
+    width: 550px;
     height: 300px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .handzagen img{
@@ -661,8 +590,10 @@ div.line {
 
   .koffie img{
     border-radius: 10px;
-    width: 760px;
+    width: 600px;
     height: 300px;
+    display: flex;
+    justify-content: center;
   }
 
   .georgeclooney img{
@@ -684,8 +615,37 @@ div.line {
     margin-bottom: 40px;
     font-size: 20px;
   }
-=======
-    display: flex;
-    justify-content: space-between;
+
+  /* BreadCrumb */
+
+  /* Style the list */
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #eee;
 }
->>>>>>> Stashed changes
+
+/* Display list items side by side */
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}
