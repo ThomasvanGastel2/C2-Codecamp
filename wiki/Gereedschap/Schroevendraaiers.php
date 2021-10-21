@@ -40,7 +40,7 @@
         Toch gebruikt men niet voor alle schroeven een schroefboormachine. Horlogemakers en instrumentmakers gebruiken voor het fijne werk speciale kleine schroevendraaiers.</p>
         <br>
     
-        <p>Veelgebruikte types schroevendraaiers:
+        <h2>Veelgebruikte types schroevendraaiers:</h2>
         <br>
         <br>
             sleufkopschroevendraaier (plat);<br>

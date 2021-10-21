@@ -16,6 +16,7 @@
             <div class="Oranje">
                 <p>
                 <h2>"Plug in Baby"</h2><br>
+                <h2>"Muse"</h2><br>
                 <br>
                 I've exposed your lies, baby<br>
                 The underneath is no big surprise<br>

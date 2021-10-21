@@ -16,6 +16,7 @@
             <div class="Blauw">
                 <p>
                     <h2>"Killer Queen"</h2><br>
+                    <h2>"Queen"</h2><br>
                     <br>
                     She keeps Moët et Chandon<br>
                     In her pretty cabinet<br>

@@ -16,6 +16,7 @@
             <div class="Oranje">
                 <p>
                 <h2>"Uprising"</h2><br>
+                <h2>"Muse"</h2><br>
                 <br>
                     Paranoia is in bloom,<br>
                     The PR transmissions will resume<br>

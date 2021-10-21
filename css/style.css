@@ -13,6 +13,10 @@ body{
     border-radius: 10px;
 }
 
+.text{
+  color: white;
+}
+
 /* Contact gegevens */
 
 .contactgegevens{
@@ -237,6 +241,7 @@ footer{
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 20px;
+    color: white;
 }
 
 .lukeskywalker{
@@ -250,6 +255,7 @@ footer{
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 20px;
+    color: white;
 }
 
 .darthvader{
@@ -450,9 +456,11 @@ div.line {
   /* IMG */
 
   .jamesbond img{
-    width: 760px;
+    width: 600px;
     height: 300px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .darthvader img{
@@ -462,15 +470,27 @@ div.line {
   }
 
   .timotydalto img{
-    width: 760px;
+    width: 600px;
     height: 300px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .rogermoore img{
-    width: 760px;
+    width: 600px;
     height: 300px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .georgeclooney img{
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .lukeskywalker img{
@@ -480,11 +500,13 @@ div.line {
   }
 
   .cirkelzaag img{
-    width: 760px;
+    width: 600px;
     height: 300px;
     border-radius: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .hamers img{
@@ -500,9 +522,11 @@ div.line {
   }
 
   .schroevendraaiers img{
-    width: 760px;
+    width: 550px;
     height: 300px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
   }
 
   .handzagen img{
@@ -513,8 +537,10 @@ div.line {
 
   .koffie img{
     border-radius: 10px;
-    width: 760px;
+    width: 600px;
     height: 300px;
+    display: flex;
+    justify-content: center;
   }
 
   .georgeclooney img{
@@ -536,3 +562,37 @@ div.line {
     margin-bottom: 40px;
     font-size: 20px;
   }
+
+  /* BreadCrumb */
+
+  /* Style the list */
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #eee;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}

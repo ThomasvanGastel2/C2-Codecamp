@@ -16,6 +16,7 @@
             <div class="Blauw">
                 <p>
                     <h2>"Bohemian Rhapsody"</h2><br>
+                    <h2>"Queen"</h2><br>
                     <br>
                     Is this the real life?<br>
                     Is this just fantasy?<br>
