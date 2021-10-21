@@ -14,9 +14,11 @@
     ?>
         <div class="ContainerSongtekst">
             <div class="Rood">
+                
                 <p>
                 <h2>"Madness"</h2><br>
                 <h2>"Muse"</h2><br>
+                <p>
                 <br>
                 (Ma-ma-ma-ma-ma-ma-ma...)<br>
                 <br>

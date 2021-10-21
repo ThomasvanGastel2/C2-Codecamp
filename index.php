@@ -18,6 +18,7 @@
         <p>Email: teamaubergine@codecamp.nl</p>
     </div>
 </div>
+
     <div class="datetime-box">
         <div class="date">
             <script>
@@ -25,7 +26,7 @@
                 document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
             </script>
         </div>
-
+        <div class="timedisplay">
             <script>
                 var dt = new Date();
                 document.getElementById("time").innerHTML = dt.toLocaleTimeString();
