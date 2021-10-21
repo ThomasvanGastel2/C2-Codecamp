@@ -100,10 +100,6 @@ nav {
     font-weight: 100;
 }
 
-nav img {
-    height: 100px;
-    width: auto;
-}
 
 nav a:hover {
     background-color: #ccc;
