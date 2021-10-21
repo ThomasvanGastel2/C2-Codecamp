@@ -5,7 +5,7 @@
 //Deze config wordt hierna _niet_ meegestuurd naar je groepsgenoten. Zo kan iedereen zijn eigen wachtwoord, etc. invullen.
 
 $dbHost = 'localhost';
-$dbName = 'takenlijst';
+$dbName = 'C2-codecamp';
 $dbUser = 'root';
 $dbPass = '';
 
@@ -16,3 +16,7 @@ $base_url = 'http://localhost/C2-Codecamp';
 // $dbName = 'dbu1409132';
 // $dbUser = 'dbs1889372';
 // $dbPass = 'dki9majz2004';
+$conn = mysqli_connect($dbHost, $dbUser, $dbPass, $dbName);
+// Check connection
+if (mysqli_connect_errno())
+  echo "Failed to connect to MySQL: " . mysqli_connect_error();		

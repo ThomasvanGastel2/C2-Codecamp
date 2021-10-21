@@ -18,7 +18,6 @@
         <p>Email: teamaubergine@codecamp.nl</p>
     </div>
 </div>
-
     <div class="datetime-box">
         <div class="date">
             <script>
@@ -35,8 +34,8 @@
         </div>
         </div>
     </div>
-    <?php
-
-    require_once  'footer.php'
-    ?>
+</body>
+<?php
+require_once 'footer.php';
+?>
 </html>
