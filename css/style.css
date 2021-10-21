@@ -43,6 +43,32 @@ body {
     display: flex;
 }
 
+
+/* Wiki MainPage */
+
+.button_wiki {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2rem;
+}
+
+.button_wiki div {
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.button_wiki button {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+p {
+    display: flex;
+    flex-direction: row;
+}
+
+
 /* Header*/
 
 .container {
@@ -133,8 +159,13 @@ header {
     margin-bottom: 5px;
     text-decoration: none;
     display: block;
-}
-
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #ccc; border-radius: 10px;}
 /* Footer */
 
 footer{
@@ -397,9 +428,6 @@ div.line {
     padding: 22px;
     justify-content: center;
     width: 50%;
-    border-radius: 22px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
-    z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 20px;
@@ -486,6 +514,7 @@ div.line {
     padding: 22px;
     justify-content: center;
     width: 50%;
+    background-color: purple;
     border-radius: 22px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
     z-index: 1;
