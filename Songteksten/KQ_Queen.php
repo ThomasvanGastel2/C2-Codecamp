@@ -14,12 +14,8 @@
     ?>
         <div class="ContainerSongtekst">
             <div class="Blauw">
-<<<<<<< Updated upstream
                 <p>
                     <h2>"Killer Queen"</h2><br>
-=======
-                    <h2>"Killer Queen"</h2>
->>>>>>> Stashed changes
                     <br>
                     <p>
                     She keeps Moët et Chandon<br>
@@ -31,6 +27,7 @@
                     At anytime an invitation<br>
                     You can't decline<br>
                     <br>
+                    
                     Caviar and cigarettes<br>
                     Well versed in etiquette<br>
                     Extraordinarily nice<br>

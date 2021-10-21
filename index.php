@@ -13,21 +13,8 @@
         <p>Team Aubergine</p>
         <p>Telefoonnummer: 0612589462</p>
         <p>Email: teamaubergine@codecamp.nl</p>
-<<<<<<< Updated upstream
     </div>
 </div>
-=======
-    </div>
-
-    <div class="info2">
-        <p>Team Aubergine</p>
-        <p>Telefoonnummer: 0612589462</p>
-        <p>Email: teamaubergine@codecamp.nl</p>
-    </div>
-</div>
-
-
->>>>>>> Stashed changes
     <div class="datetime-box">
         <div class="date">
             <script>
@@ -35,20 +22,14 @@
                 document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
             </script>
         </div>
-<<<<<<< Updated upstream
-        <div class="timedisplay">
-=======
-
->>>>>>> Stashed changes
             <script>
                 var dt = new Date();
                 document.getElementById("time").innerHTML = dt.toLocaleTimeString();
             </script>
-<<<<<<< Updated upstream
-        </div>
-=======
->>>>>>> Stashed changes
         </div>
         </div>
     </div>
+    <?php
+    require_once 'footer.php'
+    ?>
 </html>
