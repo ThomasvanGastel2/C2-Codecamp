@@ -21,7 +21,6 @@
                         <a href="<?php echo $base_url; ?>/Songteksten/Uprising_MyBaby.php">Uprising (MyBaby)</a>  
                         <a href="<?php echo $base_url; ?>/Songteksten/Uprising_Muse.php">Uprising (Muse)</a>
                         <a href="<?php echo $base_url; ?>/Songteksten/PIB_Muse.php">Plug in baby</a>  
-                        <a href="<?php echo $base_url; ?>/Songteksten/Transylvania_IronMaiden.php">Transylvania</a>
                         <a href="<?php echo $base_url; ?>/Songteksten/WATC_Queen.php ">We are the champions</a>
                     </div>
                 </div>
@@ -32,7 +31,6 @@
                         <a href="<?php echo $base_url; ?>/wiki/boeken.php">Boeken</a> 
                         <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Zagen/cirkelzagen.php">Cirkelzagen </a> 
                         <a href="<?php echo $base_url; ?>/wiki/Gereedschap/hamers.php">Hamers</a>
-                        <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Zagen/kettingzagen.php">Kettingzagen</a>   
                         <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Schroevendraaiers.php">Schroevendraaiers</a>   
                         <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Zagen/Handzagen.php">Handzagen</a> 
                         <a href="<?php echo $base_url; ?>/wiki/koffie.php">Koffie</a>     
