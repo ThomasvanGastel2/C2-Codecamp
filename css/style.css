@@ -539,6 +539,16 @@ div.line {
       font-size: 20px;
   }
   
+  .songteksten a{
+    text-decoration: none;
+    color: black;
+  }
+
+  .songteksten a:hover{
+    background-color: #96939B;
+    border-radius: 10px;
+    padding: 1px;
+  }
 
   /* IMG */
 
