@@ -6,9 +6,9 @@
 <div class="content">
     <div class="text">
         <h1><span id="datetime"></span></h1>
-        <h2>current date</h2>
+        <h2>Actuele Datum</h2>
         <h1><span id="time"></span></h1>
-        <h2>current time</h2>
+        <h2>Actuele Tijd</h2>
     <div class="datetime-box">
         <div class="date">
             <script>
