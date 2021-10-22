@@ -9,15 +9,6 @@
         <h2>current date</h2>
         <h1><span id="time"></span></h1>
         <h2>current time</h2>
-<div class="infobox">
-    <div class="info">
-        <p>Team Aubergine</p>
-        <p>Adres: Koestraat 1</p>
-        <p>Den Bosch</p>
-        <p>Telefoonnummer: 0612589462</p>
-        <p>Email: teamaubergine@codecamp.nl</p>
-    </div>
-</div>
     <div class="datetime-box">
         <div class="date">
             <script>
