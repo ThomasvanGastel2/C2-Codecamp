@@ -173,6 +173,7 @@ footer{
   margin-top: 25%;
   text-align: center;
   border-top: 1px solid lightgrey;
+  background-color: #BFBFBF;
 }
   
 .dropdown-content a:hover {
@@ -181,6 +182,7 @@ footer{
 
 .dropdown:hover .dropdown-content {
     display: block;
+    border-radius: 10px;
 }
 
 .dropdown:hover .dropbtn {
@@ -749,4 +751,9 @@ ul.breadcrumb li a:hover {
   justify-content: space-between;
   margin-top: 40px;
   margin-bottom: 40px;
+}
+
+.copyright{
+  padding-bottom: 10px;
+  font-weight: bolder;
 }

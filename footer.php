@@ -19,7 +19,7 @@
     <img src="img/plattegrond.png" alt="plattegrond codecamp">
     <!--<a>Copyright © 2021 Team Aubergine. All rights reserved.</a>-->
 </div>
-
-<p>Team Aubergine copyright</p>
-
+<div class="copyright">
+    <p>Copyright © Team Aubergine</p>
+</div>
 </footer>
