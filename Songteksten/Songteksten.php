@@ -22,7 +22,6 @@
             <a href="<?php echo $base_url; ?>/Songteksten/Uprising_MyBaby.php">My Baby - Uprising</a> <br> 
             <a href="<?php echo $base_url; ?>/Songteksten/Uprising_Muse.php">Muse - Uprising</a><br>
             <a href="<?php echo $base_url; ?>/Songteksten/PIB_Muse.php">Muse - Plug in baby</a>  <br>
-            <a href="<?php echo $base_url; ?>/Songteksten/Transylvania_IronMaiden.php">Iron Maiden - Transylvania</a><br>
             <a href="<?php echo $base_url; ?>/Songteksten/WATC_Queen.php ">Queen - We are the champions</a> <br>
         </ul>
     </div>                  

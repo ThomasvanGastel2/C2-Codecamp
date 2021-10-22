@@ -11,19 +11,7 @@
             <img src="<?php echo $base_url; ?>/img/transparentBG.png" alt="logo">
             <div class="links">
                 <a href="<?php echo $base_url; ?>/index.php">Home</a> 
-                <div class="dropdown">
-                <button
-                class="dropbtn">Songteksten</button>
-                    <div class="dropdown-content">
-                        <a href="<?php echo $base_url; ?>/Songteksten/br_queen.php">Bohemian Rapsody</a> 
-                        <a href="<?php echo $base_url; ?>/Songteksten/kq_queen.php">Killer Queen </a> 
-                        <a href="<?php echo $base_url; ?>/Songteksten/madness_muse.php">Madness</a>
-                        <a href="<?php echo $base_url; ?>/Songteksten/uprising_mybaby.php">Uprising (MyBaby)</a>  
-                        <a href="<?php echo $base_url; ?>/Songteksten/uprising_muse.php">Uprising (Muse)</a>
-                        <a href="<?php echo $base_url; ?>/Songteksten/pib_muse.php">Plug in baby</a>  
-                        <a href="<?php echo $base_url; ?>/Songteksten/watc_queen.php ">We are the champions</a>
-                    </div>
-                </div>
+                <a href="<?php echo $base_url; ?>/Songteksten/songteksten.php">Songteksten</a>
                 <div class="dropdown">
                 <button
                 class="dropbtn">Wiki</button>
