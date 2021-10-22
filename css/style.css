@@ -7,6 +7,7 @@ body {
     font-family: 'Noto Sans JP', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #E8E8E8;
 }
 
 .text {
@@ -67,6 +68,11 @@ body {
 
 
 /* Header*/
+header{
+  background-color: #BFBFBF;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
 
 .container {
     max-width: 1024px;
@@ -108,6 +114,7 @@ nav a:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #BFBFBF;
 }
 
 nav a:hover {
@@ -123,8 +130,8 @@ header {
 
 .dropbtn {
     font-family: 'Noto Sans JP', sans-serif;
-    background-color: white;
-    color: purple;
+    background-color: #BFBFBF;
+    color: BFBFBF;
     padding: 3px;
     font-size: 22px;
     margin-right: 20px;
@@ -135,6 +142,7 @@ header {
 .dropdown {
     position: relative;
     display: inline-block;
+    background-color: #BFBFBF;
 }
 
 .dropdown-content {
@@ -700,7 +708,7 @@ ul.breadcrumb li a:hover {
 }
 
 .dropbtn {
-    background-color: white;
+    background-color: #BFBFBF;
     color: purple;
 }
 
