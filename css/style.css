@@ -98,9 +98,9 @@ nav {
     padding: 3px;
     margin-right: 20px;
     margin-left: 20px;
-    color: purple;
+    color:#424242;
     font: 'Noto Sans JP', sans-serif;
-    font-weight: 100;
+    font-weight: bold;
 }
 
 
@@ -706,12 +706,13 @@ ul.breadcrumb li a:hover {
 }
 
 .links a {
-    color: purple;
+    color: #424242;
 }
 
 .dropbtn {
     background-color: #BFBFBF;
-    color: purple;
+    color: #424242;
+    font-weight: bold;
 }
 
 .Blauw{
