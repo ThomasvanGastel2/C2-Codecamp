@@ -16,7 +16,7 @@
         <p>Email: teamaubergine@codecamp.nl</p>
     </div>
 
-    <img src="img/plattegrond.png" alt="plattegrond codecamp">
+    <img src="<?php echo $base_url; ?>/img/plattegrond.png" alt="plattegrond codecamp">
     <!--<a>Copyright © 2021 Team Aubergine. All rights reserved.</a>-->
 </div>
 <div class="copyright">
