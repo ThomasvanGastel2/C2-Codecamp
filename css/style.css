@@ -15,13 +15,13 @@ body {
     flex-direction: column;
     color: white;
     text-align: center;
+    text-align: center;
+    font-size: 100px;
+    position: relative;
+    color: grey;
+    letter-spacing: 2px;
 }
 
-.content {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-}
 
 .infobox {
     font-size: 16px;
@@ -280,11 +280,6 @@ footer{
     z-index: 1;
 }
 
-.content .text {
-    position: relative;
-    max-width: 600px;
-}
-
 .content .text h1 {
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
@@ -294,22 +289,13 @@ footer{
     letter-spacing: .1em;
     font-size: 40px;
 }
-
-.content .text h1 span {
-    font-size: 50px;
+.content p{
+  color: white;
 }
 
-.content .text p {
-    font-size: 17px;
-    font-weight: 600;
-    letter-spacing: .1em;
-    margin-top: 40px;
-    color: #e7e3e3;
-}
 
-.content p {
-    color: white;
-}
+
+
 
 
 /* WIKI PAGINA */
@@ -363,24 +349,24 @@ footer{
 }
 
 
-/* Klok */
+/* Klok en Datum*/
 
-div.time {
+div.digital-clock {
     text-align: center;
-    font-size: 150px;
+    font-size: 75px;
     position: relative;
-    color: grey;
+    color: white;
     letter-spacing: 2px;
 }
+.date{
+  text-align: center;
+  font-size: 75px;
+  position: relative;
+  color: white;
+  letter-spacing: 2px;
 
-div.line {
-    line-height: 1;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
 }
+
 
 
 /* Boeken */
