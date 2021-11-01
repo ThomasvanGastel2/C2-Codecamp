@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="shortcut icon" href="../../img/favicon.png" type="image">  
+    <link rel="shortcut icon" href="../img/favicon.png" type="image">  
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +10,7 @@
 </head>
 <body>
 <?php
-        require_once '../../header.php'
+        require_once '../header.php'
 ?>
 
 <div class="hamers">
@@ -18,7 +18,7 @@
         <p>Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het eind de zogenaamde hamerkop.
         De vorm en grootte en het materiaal van de hamerkop en de lengte van de steel hangen sterk af van het type hamer. Bij hamers met een ijzeren hamerkop staat vaak het aantal grammen in het metaal geslagen. Voor speciale uitvoeringen, zoals voor percussie-instrumenten, wordt ook de term mallet (uit het Engels) gebruikt.</p>
         <br>
-        <img src="../../img/hamers.jpg" alt="hamers">
+        <img src="../img/hamers.jpg" alt="hamers">
 
     <h3>Typen hamers</h3>
         <p>De volgende tabel geeft een overzicht van typen van hamers</p>
@@ -97,7 +97,7 @@
 </div>
 <?php
 
-    require_once  '../../footer.php'
+    require_once  '../footer.php'
     ?>
 </body>
 </html>

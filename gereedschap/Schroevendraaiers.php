@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="shortcut icon" href="../../img/favicon.png" type="image">  
+    <link rel="shortcut icon" href="../img/favicon.png" type="image">  
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +10,7 @@
 <body>
     <?php
 
-        require_once  '../../header.php'
+        require_once  '../header.php'
 ?>
 
 <div class="schroevendraaiers">
@@ -20,7 +20,7 @@
         Doorgaans worden schroeven rechtsom vastgedraaid en linksom los. 
         </p>        
         <br>
-        <img src="../../img/schroevendraaiers.jpg" alt="schroevendraaiers">
+        <img src="../img/schroevendraaiers.jpg" alt="schroevendraaiers">
 
         <p>
         Schroevendraaiers zijn in velerlei soorten, afmetingen en kwaliteiten verkrijgbaar. 
@@ -58,7 +58,7 @@
     </div>
     <?php
 
-    require_once  '../../footer.php'
+    require_once  '../footer.php'
     ?>
 </body>
 </html>

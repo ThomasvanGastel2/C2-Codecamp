@@ -27,13 +27,11 @@
                  
                 <div class="dropdown">
                 <button
-                class="dropbtn">Information</button>
+                class="dropbtn">Informatie</button>
                     <div class="dropdown-content">
-                        <a href="<?php echo $base_url; ?>/information/darthvader.php">Darth Vader</a> 
-                        <a href="<?php echo $base_url; ?>/information/timotydalto.php">Timoty Dalto</a> 
-                        <a href="<?php echo $base_url; ?>/information/lukeskywalker.php">Luke Skywalker</a>
-                        <a href="<?php echo $base_url; ?>/information/jamesbond.php">James Bond</a>
-                        <a href="<?php echo $base_url; ?>/information/roger_moore.php">Roger Moore</a>
+                        <a href="<?php echo $base_url; ?>/acteurs/acteurs.php">Acteurs</a> 
+                        <a href="<?php echo $base_url; ?>/gereedschap/gereedschap.php">Gereedschap</a> 
+                        <a href="<?php echo $base_url; ?>/acteurs/lukeskywalker.php">Boeken</a>
 
                     </div>
                 </div>
