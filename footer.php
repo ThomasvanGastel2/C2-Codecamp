@@ -13,7 +13,7 @@
         <p>Adres: Koestraat 1</p>
         <p>Den Bosch</p>
         <p>Telefoonnummer: 0612589462</p>
-        <p>Email: codecamp@info.nl</p>
+        <p>Email:<a href="mailto:codecamp@info.com"> codecamp@info.com</a></p>
     </div>  
     
 
