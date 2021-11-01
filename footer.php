@@ -17,7 +17,7 @@
     </div>  
     
 
-<a href="http://www.google.com" target="_blank">
+<a href="https://www.google.nl/maps/place/Koestraat+1,+5223+AG+'s-Hertogenbosch/@51.6973624,5.2914112,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6ee66bc48c005:0x4dddc528356e3d4f!8m2!3d51.6973624!4d5.2935999?hl=nl" target="_blank">
 <img src="<?php echo $base_url; ?>/img/plattegrond.png" alt="plattegrond codecamp">
 </a>
 
