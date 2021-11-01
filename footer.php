@@ -9,17 +9,17 @@
 
 <div class="information_footer">
     <div class="footer_text">
-        <p>Team Aubergine</p>
+        <p>Codecamp</p>
         <p>Adres: Koestraat 1</p>
         <p>Den Bosch</p>
         <p>Telefoonnummer: 0612589462</p>
-        <p>Email: teamaubergine@codecamp.nl</p>
+        <p>Email: codecamp@info.nl</p>
     </div>
 
     <img src="<?php echo $base_url; ?>/img/plattegrond.png" alt="plattegrond codecamp">
     <!--<a>Copyright © 2021 Team Aubergine. All rights reserved.</a>-->
 </div>
 <div class="copyright">
-    <p>Copyright © Team Aubergine</p>
+    <p>Copyright © Codecamp</p>
 </div>
 </footer>
