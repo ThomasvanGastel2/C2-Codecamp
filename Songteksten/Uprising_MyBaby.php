@@ -13,7 +13,7 @@
         require_once '../header.php'
     ?>
         <div class="ContainerSongtekst">
-            <div class="Oranje">
+            <div class="GroenRood">
                 <p>
                 <h2>"Uprising"</h2><br>
                 <h2>"MyBaby"</h2><br>
