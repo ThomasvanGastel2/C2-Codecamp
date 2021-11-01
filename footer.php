@@ -14,9 +14,14 @@
         <p>Den Bosch</p>
         <p>Telefoonnummer: 0612589462</p>
         <p>Email: codecamp@info.nl</p>
-    </div>
+    </div>  
+    
 
-    <img src="<?php echo $base_url; ?>/img/plattegrond.png" alt="plattegrond codecamp">
+<a href="http://www.google.com" target="_blank">
+<img src="<?php echo $base_url; ?>/img/plattegrond.png" alt="plattegrond codecamp">
+</a>
+
+
     <!--<a>Copyright © 2021 Team Aubergine. All rights reserved.</a>-->
 </div>
 <div class="copyright">
