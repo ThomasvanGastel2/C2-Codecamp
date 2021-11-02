@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="shortcut icon" href="../../../img/favicon.png" type="image">  
+    <link rel="shortcut icon" href="../../img/favicon.png" type="image">  
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-        require_once '../../../header.php'
+        require_once '../header.php'
 ?>
 
 <div class="cirkelzaag">
@@ -18,7 +18,7 @@
         Cirkelzaagbladen bestaan in soorten en maten, met allerlei verschillende vertandingen, en ook de diameter kan sterk verschillen (normaal is ca. 25 cm, maar industriële cirkelzagen met veel grotere bladen bestaan ook). De maximale zaagdiepte wordt bepaald door de straal van het cirkelzaagblad.
         Een cirkelzaag die bedoeld is om latten, buizen, houten balken en dergelijke te zagen wordt ook wel een afkorter of afkortzaag genoemd.</p>
         <br>
-        <img src="../../../img/cirkelzaag.jpg" alt="cirkelzagen">
+        <img src="../img/cirkelzaag.jpg" alt="cirkelzagen">
 
     <h3>Geschiedenis</h3>
         <p>Er bestaan vele verhalen over het uitvinden van de cirkelzaag.[1] Wat vast staat is dat de cirkelzaag in 1777 voor het eerst gepatenteerd werd door de Engelsman Samuel Miller. Door de omschrijving uit het patent vermoedt men dat de cirkelzaag al eerder bestond. Deze zaag werd door een windmolen aangedreven en er werden scheepskatrollen mee vervaardigd. In 1799 volgde een patent door de Fransman L.C.A. Albert en in 1805 werd door Marc Isambard Brunel een cirkelzaag ontworpen die op een scheepswerf te Portsmouth werd gebruikt, eveneens voor het vervaardigen van katrollen. Omstreeks 1850 was de cirkelzaag al in zwang in houtzagerijen en timmerfabrieken. In 1855 werd een cirkelzaagmachine getoond op de Wereldtentoonstelling te Parijs.</p>
@@ -41,7 +41,7 @@
 </div>
 <?php
 
-    require_once  '../../../footer.php'
+    require_once  '../footer.php'
     ?>
 </body>
 </html>
