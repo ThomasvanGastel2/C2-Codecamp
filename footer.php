@@ -11,7 +11,7 @@
     <div class="footer_text">
         <p>Codecamp</p>
         <p>Adres: Koestraat 1</p>
-        <p>Den Bosch</p>
+        <p>5223 AG 's-Hertogenbosch</p>
         <p>Telefoonnummer: 0612589462</p>
         <p>Email:<a href="mailto:codecamp@info.com"> codecamp@info.com</a></p>
     </div>  
