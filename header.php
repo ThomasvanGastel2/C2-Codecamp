@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="<?php echo $base_url; ?>/css/style.css">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
+<link rel="icon" type="image/x-icon" href="img/favicon.ico">
 
 <header>
     <div class="container">
