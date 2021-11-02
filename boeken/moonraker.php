@@ -13,26 +13,25 @@
     require_once '../header.php'
     ?>
 <div class="drno">
-    <h1>Dr No</h1>
-        <p>Darth Vader is een personage uit de Star Wars-films. Hij is als Sith-leerling ondergeschikt aan keizer Palpatine, ook bekend als Darth Sidious.
-        In de jaren 1977, 1980 en 1983 werd Darth Vader gespeeld door acteur David Prowse en stuntman Bob Anderson. Zijn stem werd echter ingesproken door James Earl Jones, omdat diens stem veel zwaarder, duisterder en dreigender klonk.</p>
+    <h1>Moonraker</h1>
+        <p>Moonraker is de derde roman over James Bond van de Engelse schrijver Ian Fleming. Het boek verscheen in 1955 en werd verfilmd in 1979 met Roger Moore als James Bond. De Nederlandse titel van het boek is Hoog spel.</p>
         <br>
         <!-- <img src="../img/darthvader.png" alt="dartvader"> -->
 
-    <h2>Acteurs</h2>
-    <p>In de eerste drie opgenomen films (Episodes IV, V en VI) speelt David Prowse de rol van Darth Vader (behalve in enkele gevechtsscènes, waar Bob Anderson hem speelt). De stem wordt gedubd door de acteur James Earl Jones. In deze films is het gezicht van Darth Vader slechts twee keer te zien. Vlak voordat Darth Vader overlijdt, in Episode VI, wordt zijn masker afgedaan en wordt hij gespeeld door Sebastian Shaw. Later is hij te zien als geest. In de oorspronkelijke versie is Shaw hier opnieuw te zien, maar in de opnieuw uitgebrachte dvd-versie is deze geestverschijning aangepast, zodat Hayden Christensen te zien is. Hayden speelde Anakin Skywalker in de prequeltrilogie (Episodes I, II en III), het personage wat aan het eind van Episode III transformeert in Darth Vader.
-    Daarnaast wordt Darth Vader ook nog door andere acteurs gespeeld in een aantal videospellen. In een hoorspel uit de jaren 80 en 90 werd zijn stem door Brock Peters ingesproken. Voor verschillende videospellen werd zijn stem ingesproken door Matt Sloan en later door Scott Lawrence</p>
+    <h2>Verhaal</h2>
+    <p>M vraagt aan James Bond of hij meegaat naar de Blades Club om daar de multimiljonair en oorlogsheld Hugo Drax te observeren. Drax leidt het 'Moonraker'-ruimteproject dat gebouwd wordt om het Verenigd Koninkrijk tegen zijn vijanden van de Koude Oorlog te verdedigen. Hij wordt verdacht van het valsspelen bij bridge bij Blades. Wat M niet begrijpt is waarom Drax vals zou spelen en Bond zoekt dat uit door samen met M te dineren bij Blades. Bond slaagt er bij Blades in de bedrieger te bedriegen, met de hulp van een cocktail van gepoederde benzedrine. Bond wint hierbij 15.000 pond.
+
+Diezelfde nacht nog vindt er een moord plaats op de werf van de Moonraker. De bewakingsofficier, een agent van de Special Branch van Scotland Yard, wordt doodgeschoten. Ofschoon de zaak in handen van MI5 zou zijn, slaagt M erin om Bond te laten infiltreren bij Drax, en Bond ontmoet hierbij de politieagente Gala Brand die ook werkt bij de Special Branch.
+
+Bond en Gala ontdekken dat Drax niet is wie hij lijkt te zijn. In werkelijkheid is hij de Duitse graaf Hugo von der Drache, die, als lid van de Duitse weerwolven, tijdens de Tweede Wereldoorlog per ongeluk in een Brits hospitaal belandde dat zijn mannen later bombardeerden, waarbij het grootste deel van zijn gezicht werd weggeblazen. Zinnend op wraak nam hij de identiteit over van een verdwenen Britse soldaat en werd Brits oorlogsheld en multimiljonair. Het blijkt dat hij nu plannen heeft om Londen te vernietigen met de Moonraker, als wraak op het land (Engeland) dat hij altijd gehaat heeft. Dit heeft hij voor elkaar kunnen krijgen met geheime hulp van de Sovjet-Unie.
+
+Net als de raket op het punt staat op te stijgen komen Bond en Gala tevoorschijn, Bond wijzigt de koers van de raket zodat de raket zich in de Noordzee werpt. Drax wordt dus gedood door zijn eigen raket, terwijl hij probeert te ontsnappen in een Russische onderzeeër. Wanneer de missie voltooid is slaagt Bond er niet in het meisje voor enige tijd te krijgen.</p>
     <br>
 
     <h2>Trivia</h2>
     <ul>
-        <li>De keversoort Agathidium vaderi is vernoemd naar Darth Vader.</li>
-        <li>De haftsoort Darthus vadorus is vernoemd naar Darth Vader.</li>
-        <li>Darth Vader wordt in veel media geparodieerd, bijvoorbeeld als Dark Helmet in de film Spaceballs, als Dark Laser in de serie Fairly Odd Parents en als jongere broer in de online-serie Chad Vader - Day Shift Manager.</li>
-        <li>In Episode IV is Darth Vader op geen enkel hemellichaam aanwezig; hij bevindt zich enkel binnen ruimtevaartuigen.</li>
-        <li>Professioneel darter John Part gebruikt The Imperial March als opkomstnummer tijdens dartwedstrijden. Z'n bijnaam Darth Maple is ook gebaseerd op de naam Darth Vader.</li>
-        <li>Darth Vaders kostuum is gebaseerd op dat van een Japanse samoerai. Een andere inspiratiebron was Heinrich Himmler, die eveneens in zwart gekleed ging.</li>
-        <li>Tijdens de burgeroorlog in de Oekraïne transformeerden inwoners van Odessa een standbeeld van Lenin in Darth Vader.</li>
+        <li>Het script voor de gelijknamige film van dit boek werd geschreven door Christopher Wood, de film lijkt daarom ook weinig op Flemings Moonraker. Christopher Wood heeft alleen de naam van de slechterik Hugo Drax in de film gebruikt, maar in de film is Drax een Amerikaan, in het boek is hij een Duitser. Christopher Wood schreef daarom ook in 1979 een boek dat gebaseerd is op de film.</li>
+        <li>Het personage Miranda Frost (uit de Bondfilm Die Another Day) is gebaseerd op het personage Gala Brand. Ook Gustav Graves (ook uit de Bondfilm Die Another Day) is gebaseerd op Hugo Drax, omdat ze beiden een ongeluk met hun gezicht hebben gehad, wat hun uiterlijk veranderde.</li>
     </ul>
 </div>
 <?php

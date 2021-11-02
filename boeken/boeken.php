@@ -16,13 +16,13 @@
     <div class="boeken">
     <h1>Boeken</h1>
         <ul>
-            <a href="<?php echo $base_url; ?>/boeken/harrypotter.php">Harry Potter en de steen de Wijzen - JK Rowling</a><br>
-            <a href="<?php echo $base_url; ?>/boeken/hitchhikers.php">Hitchhikers guide tot he Universe - Douglas Adams</a><br>
-            <a href="<?php echo $base_url; ?>/boeken/oorlog.php">Oorlog en vrede - Tolsjoy</a><br>
-            <a href="<?php echo $base_url; ?>/boeken/moonraker.php">Moonraker - Ian Flemming</a><br>
-            <a href="<?php echo $base_url; ?>/boeken/drno.php">Dr No - Ian Flemming</a><br>
-            <a href="<?php echo $base_url; ?>/boeken/turksfruit.php">Turks Fruit - Jan Wolkers</a><br>
-            <a href="<?php echo $base_url; ?>/boeken/wurgtechnieken.php">Wurgtechnieken - Ward Ruislink</a><br>
+            <li><a href="<?php echo $base_url; ?>/boeken/harrypotter.php">Harry Potter en de steen de Wijzen - JK Rowling</a><br></li>
+            <li><a href="<?php echo $base_url; ?>/boeken/hitchhikers.php">Hitchhikers guide tot he Universe - Douglas Adams</a><br></li>
+            <li><a href="<?php echo $base_url; ?>/boeken/oorlog.php">Oorlog en vrede - Tolsjoy</a><br></li>
+            <li><a href="<?php echo $base_url; ?>/boeken/moonraker.php">Moonraker - Ian Flemming</a><br></li>
+            <li><a href="<?php echo $base_url; ?>/boeken/drno.php">Dr No - Ian Flemming</a><br></li>
+            <li><a href="<?php echo $base_url; ?>/boeken/turksfruit.php">Turks Fruit - Jan Wolkers</a><br></li>
+            <li><a href="<?php echo $base_url; ?>/boeken/wurgtechnieken.php">Wurgtechnieken - Ward Ruislink</a><br></li>
         </ul>
     </div>                  
                         
