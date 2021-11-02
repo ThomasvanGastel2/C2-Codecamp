@@ -729,7 +729,7 @@ div.digital-clock {
   .footer_text p{
     display: flex;
     justify-content: start;
-    font-weight: bold;
+    font-weight: 500;
   }
 
   /* externe links */
