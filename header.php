@@ -14,7 +14,7 @@
                 <a href="<?php echo $base_url; ?>/index.php">Home</a> 
                 <a href="<?php echo $base_url; ?>/Songteksten/songteksten.php">Songteksten</a>
                 <div class="dropdown">
-                <button
+                <!-- <button
                 class="dropbtn">Wiki</button>
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url; ?>/wiki/boeken.php">Boeken</a> 
@@ -23,7 +23,7 @@
                         <a href="<?php echo $base_url; ?>/wiki/Gereedschap/schroevendraaiers.php">Schroevendraaiers</a>   
                         <a href="<?php echo $base_url; ?>/wiki/Gereedschap/Zagen/handzagen.php">Handzagen</a> 
                         <a href="<?php echo $base_url; ?>/wiki/koffie.php">Koffie</a>     
-                    </div>
+                    </div> -->
                 </div>
                  
                 <div class="dropdown">
