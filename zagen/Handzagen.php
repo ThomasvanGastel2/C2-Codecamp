@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="shortcut icon" href="../../../img/favicon.png" type="image">  
+    <link rel="shortcut icon" href="../img/favicon.png" type="image">  
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,11 +10,11 @@
 <body>
     <?php
 
-        require_once  '../../../header.php'
+        require_once  '../header.php'
 ?>
 <div class="handzagen">
     <h3>Handzaag</h3>
-    <img src="../../../img/handzagen.jpg" alt="handzagen">
+    <img src="../img/handzagen.jpg" alt="handzagen">
 
         <p>Een handzaag is een zaag met een taps toelopend, veerkrachtig stalen zaagblad dat voorzien is van een handvat. Het blad is ongeveer 1 mm dik, 400 à 500 mm lang, en circa 100 mm breed.
 
@@ -29,7 +29,7 @@ In Vlaanderen noemt men de handzaag ook wel "Sint-Jozefszaag", of afgekort "jefz
 </div>
 <?php
 
-    require_once  '../../../footer.php'
+    require_once  '../footer.php'
     ?>
 </body>
 </html>
