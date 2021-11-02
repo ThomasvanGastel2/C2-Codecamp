@@ -21,7 +21,7 @@
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url; ?>/acteurs/acteurs.php">Acteurs</a> 
                         <a href="<?php echo $base_url; ?>/gereedschap/gereedschap.php">Gereedschap</a> 
-                        <a href="<?php echo $base_url; ?>/acteurs/lukeskywalker.php">Boeken</a>
+                        <a href="<?php echo $base_url; ?>/boeken/boeken.php">Boeken</a>
 
                     </div>
                 </div>
