@@ -16,13 +16,13 @@
     <div class="songteksten">
     <h1>Songteksten</h1>
         <ul>
-            <a href="<?php echo $base_url; ?>/Songteksten/BR_Queen.php">Queen - Bohemian Rapsody</a><br>
-            <a href="<?php echo $base_url; ?>/Songteksten/KQ_Queen.php">Queen - Killer Queen </a><br> 
-            <a href="<?php echo $base_url; ?>/Songteksten/Madness_Muse.php">Muse - Madness</a><br>
-            <a href="<?php echo $base_url; ?>/Songteksten/Uprising_MyBaby.php">My Baby - Uprising</a> <br> 
-            <a href="<?php echo $base_url; ?>/Songteksten/Uprising_Muse.php">Muse - Uprising</a><br>
-            <a href="<?php echo $base_url; ?>/Songteksten/PIB_Muse.php">Muse - Plug in baby</a>  <br>
-            <a href="<?php echo $base_url; ?>/Songteksten/WATC_Queen.php ">Queen - We are the champions</a> <br>
+            <li><a href="<?php echo $base_url; ?>/Songteksten/BR_Queen.php">Queen - Bohemian Rapsody</a></li><br>
+            <li><a href="<?php echo $base_url; ?>/Songteksten/KQ_Queen.php">Queen - Killer Queen </a></li><br> 
+            <li><a href="<?php echo $base_url; ?>/Songteksten/Madness_Muse.php">Muse - Madness</a></li><br>
+            <li><a href="<?php echo $base_url; ?>/Songteksten/Uprising_MyBaby.php">My Baby - Uprising</a></li> <br> 
+            <li><a href="<?php echo $base_url; ?>/Songteksten/Uprising_Muse.php">Muse - Uprising</a></li><br>
+            <li><a href="<?php echo $base_url; ?>/Songteksten/PIB_Muse.php">Muse - Plug in baby</a></li>  <br>
+            <li><a href="<?php echo $base_url; ?>/Songteksten/WATC_Queen.php ">Queen - We are the champions</a></li> <br>
         </ul>
     </div>                  
                         
