@@ -14,26 +14,45 @@
     ?>
 <div class="drno">
     <h1>Dr No</h1>
-        <p>Darth Vader is een personage uit de Star Wars-films. Hij is als Sith-leerling ondergeschikt aan keizer Palpatine, ook bekend als Darth Sidious.
-        In de jaren 1977, 1980 en 1983 werd Darth Vader gespeeld door acteur David Prowse en stuntman Bob Anderson. Zijn stem werd echter ingesproken door James Earl Jones, omdat diens stem veel zwaarder, duisterder en dreigender klonk.</p>
+        <p>Dr. No is het zesde boek van Ian Fleming over James Bond, verschenen in 1958. De verfilming van dit boek is de eerste James Bondfilm die geproduceerd is door EON productions. De Nederlandse titel is hetzelfde.</p>
         <br>
         <!-- <img src="../img/darthvader.png" alt="dartvader"> -->
 
-    <h2>Acteurs</h2>
-    <p>In de eerste drie opgenomen films (Episodes IV, V en VI) speelt David Prowse de rol van Darth Vader (behalve in enkele gevechtsscènes, waar Bob Anderson hem speelt). De stem wordt gedubd door de acteur James Earl Jones. In deze films is het gezicht van Darth Vader slechts twee keer te zien. Vlak voordat Darth Vader overlijdt, in Episode VI, wordt zijn masker afgedaan en wordt hij gespeeld door Sebastian Shaw. Later is hij te zien als geest. In de oorspronkelijke versie is Shaw hier opnieuw te zien, maar in de opnieuw uitgebrachte dvd-versie is deze geestverschijning aangepast, zodat Hayden Christensen te zien is. Hayden speelde Anakin Skywalker in de prequeltrilogie (Episodes I, II en III), het personage wat aan het eind van Episode III transformeert in Darth Vader.
-    Daarnaast wordt Darth Vader ook nog door andere acteurs gespeeld in een aantal videospellen. In een hoorspel uit de jaren 80 en 90 werd zijn stem door Brock Peters ingesproken. Voor verschillende videospellen werd zijn stem ingesproken door Matt Sloan en later door Scott Lawrence</p>
-    <br>
+    <h2>beschrijving</h2>
+    <p>PAS OP: SPOILER!!!</p>
+    <button name="spoiler_button" id="spoiler_button" type="button">Show Spoilers</button>
 
-    <h2>Trivia</h2>
-    <ul>
-        <li>De keversoort Agathidium vaderi is vernoemd naar Darth Vader.</li>
-        <li>De haftsoort Darthus vadorus is vernoemd naar Darth Vader.</li>
-        <li>Darth Vader wordt in veel media geparodieerd, bijvoorbeeld als Dark Helmet in de film Spaceballs, als Dark Laser in de serie Fairly Odd Parents en als jongere broer in de online-serie Chad Vader - Day Shift Manager.</li>
-        <li>In Episode IV is Darth Vader op geen enkel hemellichaam aanwezig; hij bevindt zich enkel binnen ruimtevaartuigen.</li>
-        <li>Professioneel darter John Part gebruikt The Imperial March als opkomstnummer tijdens dartwedstrijden. Z'n bijnaam Darth Maple is ook gebaseerd op de naam Darth Vader.</li>
-        <li>Darth Vaders kostuum is gebaseerd op dat van een Japanse samoerai. Een andere inspiratiebron was Heinrich Himmler, die eveneens in zwart gekleed ging.</li>
-        <li>Tijdens de burgeroorlog in de Oekraïne transformeerden inwoners van Odessa een standbeeld van Lenin in Darth Vader.</li>
-    </ul>
+    <div id="spoiler_text" class="fadeout" >
+        <p>Het vorige boek, From Russia with Love, eindigde met een cliffhanger, waarin Bond vergiftigd werd door Rosa Klebb. In het begin van deze roman wordt onthuld hoe Bond dit overleefd heeft: het gif was tetrodotoxine, en zou Bond gedood hebben door verlamming. René Mathis heeft Bond echter kunstmatig beademd, zodat Bond niet stikte; de arts die er snel bij geroepen werd kwam uit Afrika en had ervaring met vergiftigingen. Met deze hulp en heel veel geluk heeft Bond het ternauwernood overleefd.</p>
+        <p>Terug in dienst wordt Bond naar Jamaica gestuurd, om uit te zoeken wat er met John Strangways, het hoofd van Station J, gebeurd is. Strangways en diens secretaresse zijn verdwenen, maar M denkt dat de twee er gewoon vandoor gegaan zijn, en gaat er uit van een routine-onderzoek.</p>
+        <p>Bond maakt contact met zijn oude vriend Quarrel, maar ontdekt al snel dat er sprake is van allesbehalve routine. Hij wordt bespied, en zijn kamer wordt doorzocht. Er wordt een mand met vergiftigd fruit bezorgd, en 's nachts ontsnapt Bond aan de dood als er een giftige duizendpoot in zijn bed gelegd blijkt te zijn. Quarrel heeft Bond uitgelegd dat Strangways onderzoek deed naar het eiland Crab Key, eigendom van een zekere Dr. Julius No, die daar een guano-handel bedrijft.. Volgens het lokale bijgeloof woont er een draak op het eiland, want er zijn al meerdere mensen verdwenen.</p>
+        <p>Bond en Quarrel gaan naar het eiland. 's Ochtends vroeg ontmoeten ze schelpenduikster Honeychile Rider op het strand. Al snel worden ze aangevallen door mannen van Dr. No, en vluchten ze landinwaarts. Daar ontmoeten ze de "draak": een moerasbuggy met een ingebouwde vlammenwerper. Quarrel wordt met het wapen gedood, en Bond en Honey worden gevangengenomen en voor Dr. No geleid.</p>
+        <p>Dr. No bewondert Bond na al zijn ontsnappingen en vertelt hem zijn levensverhaal. Hij is van Duits-Chinees bloed en werkte oorspronkelijk voor een Chinese Tong. Nadat hij een miljoen aan goud van zijn meesters had gestolen hakten deze zijn handen af en schoten hem neer, maar Dr. No overleefde omdat zijn hart aan de rechterkant zat. Eenmaal rijk geworden nam hij de naam Julius No aan, werd geleerd en kocht uiteindelijk Crab Key. Dr. No regeert het eilandje als zijn eigen kleine koninkrijk: niemand die het betreedt zal het verlaten. Hij kan zijn veiligheid goed garanderen door een netwerken van agenten op Jamaica, en het handig ensceneren van ongelukken bij inspecties. Er zit echter meer achter het hele eiland: Dr. No saboteert Amerikaanse raketproeven door de raketten om te leiden - werk waarvoor de Sovjet-Unie hem goed betaalt.</p>
+        <p>Dr. No besluit Honey en Bond op creatieve wijze te executeren. Bij wijze van experiment wordt Bond een lange gang vol hindernissen in gejaagd, waarbij hij onder meer wordt blootgesteld aan grote hitte, elektrische schokken en vogelspinnen. Hiermee wordt Bonds uithoudingsvermogen getest. De zeer goed geoefende Bond doorstaat alles, mede dankzij wat wapens die hij meegesmokkeld heeft: een mes, een aansteker en de spijl van een traliehek. Aan het einde van de gang komt Bond in een bassin terecht, waarin een gevangen reuzeninktvis zit. Dankzij zijn doorzettingsvermogen en zijn wapens slaagt Bond erin het dier te verwonden, en te ontsnappen. Bond treft Dr. No vervolgens aan bij een machine die guano inlaadt. Bond kaapt de machine en begraaft Dr. No levend onder de guano. Honey, die was vastgebonden om door krabben te worden opgegeten, is zelf al ontsnapt, omdat de krabben haar niets deden. Bond en Honey ontsnappen samen in de drakenbuggy.</p>
+    </div>
+
+    <script>
+        var divToggleVis = document.getElementById('spoiler_text');
+    var button = document.getElementById('spoiler_button');
+    divToggleVis.style.visibility = 'hidden';
+
+    button.onclick = function() {
+        if (divToggleVis.className === 'fadeout') {
+            divToggleVis.className = 'fadein';
+            divToggleVis.style.visibility = 'visible';
+        } else {
+            divToggleVis.style.visibility = 'hidden';
+            divToggleVis.className = 'fadeout';
+        }
+
+        if (button.innerHTML === 'Show Spoilers') {
+            button.innerHTML = 'Hide Spoilers';
+        } else {
+            button.innerHTML = 'Show Spoilers';
+        }
+    };
+    </script>
+    <br>
 </div>
 <?php
 
