@@ -16,9 +16,9 @@
     <div class="gereedschappen">
     <h1>Gereedschap</h1>
         <ul>
-            <a href="<?php echo $base_url; ?>/zagen/zagen.php">Zagen</a><br>
-            <a href="<?php echo $base_url; ?>/gereedschap/hamers.php">Hamers</a><br> 
-            <a href="<?php echo $base_url; ?>/gereedschap/Schroevendraaiers.php">Schroevendraaiers</a><br>
+            <li><a href="<?php echo $base_url; ?>/zagen/zagen.php">Zagen</a></li><br>
+            <li><a href="<?php echo $base_url; ?>/gereedschap/hamers.php">Hamers</a></li><br> 
+            <li><a href="<?php echo $base_url; ?>/gereedschap/Schroevendraaiers.php">Schroevendraaiers</a></li><br>
         </ul>
     </div>                  
                         

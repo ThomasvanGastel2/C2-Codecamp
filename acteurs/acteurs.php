@@ -16,12 +16,12 @@
     <div class="acteurs">
     <h1>Acteurs</h1>
         <ul>
-            <a href="<?php echo $base_url; ?>/acteurs/darthvader.php">Darthvader</a><br>
-            <a href="<?php echo $base_url; ?>/acteurs/George_Clooney.php">George Clooney</a><br> 
-            <a href="<?php echo $base_url; ?>/acteurs/jamesbond.php">James Bond</a><br>
-            <a href="<?php echo $base_url; ?>/acteurs/lukeskywalker.php">Luke Skywalker</a> <br> 
-            <a href="<?php echo $base_url; ?>/acteurs/Roger_Moore.php">Roger Moore</a><br>
-            <a href="<?php echo $base_url; ?>/acteurs/timotydalto.php">Timoty Dalto</a>  <br>
+            <li><a href="<?php echo $base_url; ?>/acteurs/darthvader.php">Darth Vader</a></li><br>
+            <li><a href="<?php echo $base_url; ?>/acteurs/George_Clooney.php">George Clooney</a></li><br> 
+            <li><a href="<?php echo $base_url; ?>/acteurs/jamesbond.php">James Bond</a></li><br>
+            <li><a href="<?php echo $base_url; ?>/acteurs/lukeskywalker.php">Luke Skywalker</a></li> <br> 
+            <li><a href="<?php echo $base_url; ?>/acteurs/Roger_Moore.php">Roger Moore</a></li><br>
+            <li><a href="<?php echo $base_url; ?>/acteurs/timotydalto.php">Timoty Dalto</a></li>  <br>
         </ul>
     </div>                  
                         
