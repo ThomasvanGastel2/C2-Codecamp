@@ -545,11 +545,23 @@ div.digital-clock {
     margin-bottom: 40px;
     font-size: 20px;
   }
-
+  ul{
+    padding: 0;
+  }
   .acteurs a{
     color: #000000;
     text-decoration: none;
+    /* padding: 22px; */
   }
+  li{
+   list-style: none;
+  }
+  .acteurs h1{
+  padding-bottom: 15px;   }
+  .songteksten h1{
+  padding-bottom: 15px;   }
+  .gereedschappen h1{
+    padding-bottom: 15px;   }
 
   .acteurs a:hover{
     background-color: #96939B;
