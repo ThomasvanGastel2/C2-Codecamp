@@ -603,6 +603,29 @@ div.digital-clock {
     padding: 1px;
   }
 
+  .boeken{
+    padding: 22px;
+    text-align: center;
+    width: 50%;
+    border-radius: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+    z-index: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 20px;
+  }
+
+  .boeken a{
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .boeken a:hover{
+    background-color: #96939B;
+    border-radius: 10px;
+    padding: 1px;
+  }
+
 
   .songteksten{
       padding: 22px;
