@@ -23,7 +23,7 @@
         box-sizing: border-box;
     }
     .openChatBtn {
-        background-color: rgb(123, 28, 179);
+        background-color: #FC814A;
         color: white;
         padding: 16px 20px;
         border: none;
@@ -42,14 +42,14 @@
         position: fixed;
         bottom: 0;
         right: 15px;
-        border: 3px solid #ff08086b;
+        border: 3px solid #FC814A;
         z-index: 9;
         border-radius: 22px;
     }
     form {
         max-width: 300px;
         padding: 10px;
-        background-color: white;
+        background-color: #BFBFBF;
         border-radius: 22px;
     }
     form textarea {
@@ -59,13 +59,13 @@
         margin: 5px 0 22px 0;
         border: none;
         font-weight: 500;
-        background: #d5e7ff;
+        background: white;
         color: rgb(0, 0, 0);
         resize: none;
         min-height: 200px;
     }
     form textarea:focus {
-        background-color: rgb(219, 255, 252);
+        background-color: #E8E8E8;
         outline: none;
     }
 
