@@ -33,7 +33,11 @@
                         <a href="<?php echo $base_url; ?>/dranken/Frisdranken/frisdrank.php">Frisdrank</a> 
                     </div>
                 </div>
+                <div class="loginbtn">
+            <a href="<?php echo $base_url; ?>/Songteksten/songteksten.php">Login</a>
             </div>
+            </div>
+            
         </nav>
     </div>
 </header>

@@ -786,7 +786,10 @@ div.digital-clock {
     margin-bottom: 40px;
     font-size: 20px;
   }
-
+.loginbtn{
+  display: flex;
+  justify-content: end;
+}
   /* BreadCrumb */
 
   /* Style the list */
