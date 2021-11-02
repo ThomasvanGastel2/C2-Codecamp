@@ -273,6 +273,7 @@ footer{
     background-color: #FC814A;
     margin-top: 120px;
     margin-bottom: 275px;
+    padding-top: 120px;
     padding-bottom: 120px;
     border-radius: 22px;
     border-bottom: 1px solid lightgrey;
@@ -291,6 +292,7 @@ footer{
 }
 .content p{
   color: white;
+  font-size: 50px;
 }
 
 
@@ -353,21 +355,25 @@ footer{
 
 div.digital-clock {
     text-align: center;
-    font-size: 75px;
-    position: relative;
+    font-size: 55px;
+    position: block;
     color: white;
     letter-spacing: 2px;
+    font-weight: bold;
 }
 .date{
   text-align: center;
-  font-size: 75px;
-  position: relative;
+  display: block;
+  font-size: 55px;
   color: white;
   letter-spacing: 2px;
+  font-weight: bold;
 
 }
 
-
+.date p{
+  padding-top: 5px;
+}
 
 /* Boeken */
 
