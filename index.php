@@ -17,10 +17,8 @@
     require_once 'footer.php'
     ?>
 </html>
+
     <style>
-    body {
-        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    }
     * {
         box-sizing: border-box;
     }
