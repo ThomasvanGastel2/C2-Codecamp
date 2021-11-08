@@ -6,13 +6,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr No</title>
+    <title>Oorlog en vrede</title>
 </head>
 <body>
     <?php
     require_once '../header.php'
     ?>
-<div class="drno">
+<div class="oorlogenvrede">
     <h1>Oorlog en vrede </h1>
         <p>Oorlog en vrede (Russisch: Война и Мир, Vojna i Mir) is een roman van de Russische schrijver Leo Tolstoj die gaat over de oorlogen tussen Rusland en Frankrijk onder Napoleon (1805-1814), zoals die werden ervaren door vijf aristocratische families in Sint-Petersburg en Moskou.</p>
         <br>
