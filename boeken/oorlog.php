@@ -13,26 +13,25 @@
     require_once '../header.php'
     ?>
 <div class="drno">
-    <h1>Dr No</h1>
-        <p>Darth Vader is een personage uit de Star Wars-films. Hij is als Sith-leerling ondergeschikt aan keizer Palpatine, ook bekend als Darth Sidious.
-        In de jaren 1977, 1980 en 1983 werd Darth Vader gespeeld door acteur David Prowse en stuntman Bob Anderson. Zijn stem werd echter ingesproken door James Earl Jones, omdat diens stem veel zwaarder, duisterder en dreigender klonk.</p>
+    <h1>Oorlog en vrede </h1>
+        <p>Oorlog en vrede (Russisch: Война и Мир, Vojna i Mir) is een roman van de Russische schrijver Leo Tolstoj die gaat over de oorlogen tussen Rusland en Frankrijk onder Napoleon (1805-1814), zoals die werden ervaren door vijf aristocratische families in Sint-Petersburg en Moskou.</p>
         <br>
-        <!-- <img src="../img/darthvader.png" alt="dartvader"> -->
+        <img src="../img/oorlog.jpg" alt="Kaft van oorlog en vrede">
 
-    <h2>Acteurs</h2>
-    <p>In de eerste drie opgenomen films (Episodes IV, V en VI) speelt David Prowse de rol van Darth Vader (behalve in enkele gevechtsscènes, waar Bob Anderson hem speelt). De stem wordt gedubd door de acteur James Earl Jones. In deze films is het gezicht van Darth Vader slechts twee keer te zien. Vlak voordat Darth Vader overlijdt, in Episode VI, wordt zijn masker afgedaan en wordt hij gespeeld door Sebastian Shaw. Later is hij te zien als geest. In de oorspronkelijke versie is Shaw hier opnieuw te zien, maar in de opnieuw uitgebrachte dvd-versie is deze geestverschijning aangepast, zodat Hayden Christensen te zien is. Hayden speelde Anakin Skywalker in de prequeltrilogie (Episodes I, II en III), het personage wat aan het eind van Episode III transformeert in Darth Vader.
-    Daarnaast wordt Darth Vader ook nog door andere acteurs gespeeld in een aantal videospellen. In een hoorspel uit de jaren 80 en 90 werd zijn stem door Brock Peters ingesproken. Voor verschillende videospellen werd zijn stem ingesproken door Matt Sloan en later door Scott Lawrence</p>
+    <h2>Auteur</h2>
+    <p>Lev Tolstoj</p>
+
+    <h2>Aantal pagina's</h2>
+    <p>1625</p>
+
+    <h2>Historische achtergrond</h2>
+    <p>Toen Lev Tolstoj aan Oorlog en vrede begon, was hij van plan een boek te schrijven over de oorzaken van de Dekabristenopstand tegen tsaar Nicolaas I in 1825. Tijdens zijn studie hiernaar raakte hij echter steeds verder terug in de tijd en meende hij zelfs de oorzaken van de Franse inval in Rusland te moeten beschrijven. Uiteindelijk week Tolstoj volledig af van zijn oorspronkelijke opzet. Hoewel de figuur van Andrej Bolkonski duidelijk geïnspireerd is door de dekabrist Sergej Volkonski, wordt uiteindelijk alleen in de epiloog vermeld dat de zoon van Bolkonski tot de groep Dekabristen gaat behoren.
+    In het boek beschrijft Tolstoj uitgebreid de veldslagen van de Grande Armée, waarvan uiteindelijk slechts één procent terugkeerde in Frankrijk.</p>
     <br>
 
-    <h2>Trivia</h2>
+    <h2>Verfilmingen</h2>
     <ul>
-        <li>De keversoort Agathidium vaderi is vernoemd naar Darth Vader.</li>
-        <li>De haftsoort Darthus vadorus is vernoemd naar Darth Vader.</li>
-        <li>Darth Vader wordt in veel media geparodieerd, bijvoorbeeld als Dark Helmet in de film Spaceballs, als Dark Laser in de serie Fairly Odd Parents en als jongere broer in de online-serie Chad Vader - Day Shift Manager.</li>
-        <li>In Episode IV is Darth Vader op geen enkel hemellichaam aanwezig; hij bevindt zich enkel binnen ruimtevaartuigen.</li>
-        <li>Professioneel darter John Part gebruikt The Imperial March als opkomstnummer tijdens dartwedstrijden. Z'n bijnaam Darth Maple is ook gebaseerd op de naam Darth Vader.</li>
-        <li>Darth Vaders kostuum is gebaseerd op dat van een Japanse samoerai. Een andere inspiratiebron was Heinrich Himmler, die eveneens in zwart gekleed ging.</li>
-        <li>Tijdens de burgeroorlog in de Oekraïne transformeerden inwoners van Odessa een standbeeld van Lenin in Darth Vader.</li>
+    De roman is meerdere keren verfilmd. De meest belangwekkende zijn de Hollywoodversie uit 1956 met Audrey Hepburn als Natasja, en de versie uit 1967 van Sovjetregisseur Sergej Bondartsjoek. In 1972 is het boek bewerkt tot een televisieserie door de BBC. In die versie (die 15 uur duurt) wordt de rol van Pierre Bezoechov gespeeld door de Britse acteur Anthony Hopkins. War and Peace (2007): een coproductie uit Rusland, Frankrijk, Duitsland, Polen en Italië. In 2016 brengt de BBC onder de titel 'War and Peace' een zesdelige adaptatie uit geschreven door Andrew Davies en geregisseerd door Tom Harper met hoofdrollen van o.a. Paul Dano, James Norton en Lily James.
     </ul>
 </div>
 <?php
