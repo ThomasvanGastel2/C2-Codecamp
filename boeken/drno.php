@@ -18,7 +18,13 @@
         <br>
         <!-- <img src="../img/darthvader.png" alt="dartvader"> -->
 
-    <h2>beschrijving</h2>
+    <h2>Auteur:</h2>
+    <p> Ian Flemming</p>
+
+    <h2>Aantal bladzijdes:</h2>
+    <p> 286</p>
+
+    <h2>Verhaal</h2>
     <p>PAS OP: SPOILER!!!</p>
     <button name="spoiler_button" id="spoiler_button" type="button">Show Spoilers</button>
 

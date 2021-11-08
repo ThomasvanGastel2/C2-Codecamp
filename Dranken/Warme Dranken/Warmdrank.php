@@ -19,6 +19,11 @@
         die vanwege hun vorm koffiebonen worden genoemd. Koffie bevat het stimulerende middel cafeïne.De meeste soorten in het geslacht Coffea komen van nature voor in tropisch Afrika en op de eilanden in de Indische Oceaan. 
         Ze vinden hun oorsprong in Ethiopië, Jemen en Soedan.
         <br>
+        <div class="george_clooney_button">
+            <p style="font-weight: bold">Externe links:</p>
+            <button type="button"    
+            onclick="window.location.href=http://localhost/C2-Codecamp/acteurs/Roger_Moore.php">>Roger Moore</button>
+        </div>
     </p>
 
     <h3>Latte</h3>

@@ -12,14 +12,26 @@
     <?php
     require_once '../header.php'
     ?>
-<div class="drno">
+<div class="harrypotter">
     <h1>Harry Potter en de Steen der Wijzen</h1>
         <p>Harry Potter en de Steen der Wijzen is het eerste deel van de populaire Harry Potterserie en is net zoals de zes opvolgende delen geschreven door de Britse schrijfster J.K. Rowling. De verhalen beschrijven het leven van een jonge tovenaar, genaamd Harry Potter. De originele titel van het boek luidt: Harry Potter and the Philosopher's Stone. Het boek werd in 2001 verfilmd.</p>
         <br>
         <img src="../img/steenderwijzen.jpg" alt="kaft van het boek Harry Potter en de Steen der Wijzen ">
 
+    
+    
+    
+    <h2>Auteur:</h2>
+    <p>J.K. Rowling</p>
+
+    <h2>Aantal bladzijdes:</h2>
+    <p>256</p>
+    
+    
+    
+    
     <h2>Samenvatting</h2>
-    <p>De jonge Harry Potter woont na de dood van zijn ouders bij zijn oom en tante, waar hij slecht wordt behandeld en voortdurend de pesterijen van zijn verwende neefje moet ondergaan. Op zijn elfde verjaardag verneemt Harry dat zijn ouders machtige tovenaars waren en dat ook hij unieke magische krachten heeft. Hij vertrekt naar een Britse kostschool voor leerling-tovenaars, waar hij heel wat vrienden maakt die net als hij speciale krachten hebben./p>
+    <p>De jonge Harry Potter woont na de dood van zijn ouders bij zijn oom en tante, waar hij slecht wordt behandeld en voortdurend de pesterijen van zijn verwende neefje moet ondergaan. Op zijn elfde verjaardag verneemt Harry dat zijn ouders machtige tovenaars waren en dat ook hij unieke magische krachten heeft. Hij vertrekt naar een Britse kostschool voor leerling-tovenaars, waar hij heel wat vrienden maakt die net als hij speciale krachten hebben.</p>
     <br>
 
     <h2>Trivia</h2>
