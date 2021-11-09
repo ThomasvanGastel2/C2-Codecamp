@@ -23,9 +23,6 @@
             <p style="font-weight: bold">Externe links:</p>
             <input type="button" onclick="location.href='<?php echo $base_url; ?>/acteurs/Roger_Moore.php';" value="Roger Moore" />
         </div>
-        <div class="btn-1">
-            <a href="<?php echo $base_url; ?>/acteurs/Roger_Moore.php"><span>Roger Moore</span></a>
-        </div>
     </p>
 
     <h3>Latte</h3>

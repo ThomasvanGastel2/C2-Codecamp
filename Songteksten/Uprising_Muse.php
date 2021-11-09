@@ -16,6 +16,7 @@
             <div class="GroenRood">
                 <p>
                 <h2>"Uprising"</h2><br>
+                <img src="../img/muse.jfif" alt="Muse">
                 <h2>"Muse"</h2><br>
                 <br>
                     Paranoia is in bloom,<br>
