@@ -13,13 +13,22 @@
     require_once 'header.php'
     ?>
 
-<div class="content">
-    <a href="index.php">
-    <button class="UserChatBtn">User</button>
-    </a>
-    <a href="admin.php">
-    <button class="AdminChatBtn">Admin</button>
-    </a>
+<div class="contentlogin">
+    <div>
+    <img src="img/lock (2).png" alt="Lock img">
+    </div>
+    <div class="loginmain">
+    <div class="loginbtn">
+        <a href="index.php">
+        <button class="UserChatBtn">User</button>
+        </a>
+    </div>
+        <div class="loginbtn2">
+        <a href="admin.php">
+        <button class="AdminChatBtn">Admin</button>
+        </a>
+    </div>
+    </div>
 
     
 </div>

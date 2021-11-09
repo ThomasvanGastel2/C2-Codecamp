@@ -299,7 +299,42 @@ footer{
   font-size: 50px;
 }
 
+/* Login Pagina */
 
+.contentlogin {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  flex-flow: column;
+  padding: 22px;
+  text-align: center;
+  background-color: #FC814A;
+  margin-top: 120px;
+  margin-bottom: 275px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  border-radius: 22px;
+  border-bottom: 1px solid lightgrey;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+  z-index: 1;
+}
+
+.contentlogin img{
+  width: 150px;
+}
+
+.loginbtn{
+  padding: 15px;
+}
+
+.loginbtn2{
+  padding: 15px;
+}
+
+.loginmain{
+  display: flex;
+  justify-content: space-between;
+}
 
 
 
@@ -572,11 +607,20 @@ div.digital-clock {
    list-style: none;
   }
   .acteurs h1{
-  padding-bottom: 15px;   }
+  padding-bottom: 15px;
+   }
+
   .songteksten h1{
-  padding-bottom: 15px;   }
+  padding-bottom: 15px;
+   }
+
   .gereedschappen h1{
-    padding-bottom: 15px;   }
+    padding-bottom: 15px;
+     }
+
+  .boeken h1{
+    padding-bottom: 15px;
+  }
 
   .acteurs a:hover{
     background-color: #96939B;
