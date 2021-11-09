@@ -14,40 +14,17 @@
     ?>
 
 <div class="content">
-<a href="index.php">
+    <a href="index.php">
     <button class="UserChatBtn">User</button>
-  </a>
+    </a>
+    <a href="admin.php">
     <button class="AdminChatBtn">Admin</button>
+    </a>
+
     
 </div>
         <?php
         require_once 'footer.php'
         ?>
-        <style>
-        .UserChatBtn {
-        background-color: #BFBFBF;
-        color: black;
-        padding: 16px 20px;
-        border: none;
-        font-weight: 500;
-        font-size: 18px;
-        cursor: pointer;
-        position: left;
-        width: 280px;
-        border-radius: 22px;
-    }
-    .AdminChatBtn {
-        background-color: #BFBFBF;
-        color: black;
-        padding: 16px 20px;
-        border: none;
-        font-weight: 500;
-        font-size: 18px;
-        cursor: pointer;
-        position: right;
-        width: 280px;
-        border-radius: 22px;
-    }
-        </style>
 </body>
 </html>
