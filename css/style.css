@@ -434,6 +434,10 @@ div.digital-clock {
     height: 300px;
   }
 
+  .boeken li{
+    margin-bottom: 22px;
+  }
+
 /* Koffie */
 
 .koffie {
