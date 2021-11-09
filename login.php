@@ -13,41 +13,27 @@
     require_once 'header.php'
     ?>
 
-<div class="content">
-<a href="index.php">
-    <button class="UserChatBtn">User</button>
-  </a>
-    <button class="AdminChatBtn">Admin</button>
+<div class="contentlogin">
+    <div>
+    <img src="img/lock (2).png" alt="Lock img">
+    </div>
+    <div class="loginmain">
+    <div class="loginbtn">
+        <a href="index.php">
+        <button class="UserChatBtn">User</button>
+        </a>
+    </div>
+        <div class="loginbtn2">
+        <a href="admin.php">
+        <button class="AdminChatBtn">Admin</button>
+        </a>
+    </div>
+    </div>
+
     
 </div>
         <?php
         require_once 'footer.php'
         ?>
-        <style>
-        .UserChatBtn {
-        background-color: #BFBFBF;
-        color: black;
-        padding: 16px 20px;
-        border: none;
-        font-weight: 500;
-        font-size: 18px;
-        cursor: pointer;
-        position: left;
-        width: 280px;
-        border-radius: 22px;
-    }
-    .AdminChatBtn {
-        background-color: #BFBFBF;
-        color: black;
-        padding: 16px 20px;
-        border: none;
-        font-weight: 500;
-        font-size: 18px;
-        cursor: pointer;
-        position: right;
-        width: 280px;
-        border-radius: 22px;
-    }
-        </style>
 </body>
 </html>

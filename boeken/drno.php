@@ -16,7 +16,7 @@
     <h1>Dr No</h1>
         <p>Dr. No is het zesde boek van Ian Fleming over James Bond, verschenen in 1958. De verfilming van dit boek is de eerste James Bondfilm die geproduceerd is door EON productions. De Nederlandse titel is hetzelfde.</p>
         <br>
-        <!-- <img src="../img/darthvader.png" alt="dartvader"> -->
+        <img src="../img/drno.jpg" alt="Dr No">
 
     <h2>Auteur:</h2>
     <p> Ian Flemming</p>

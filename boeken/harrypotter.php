@@ -31,11 +31,34 @@
     
     
     <h2>Samenvatting</h2>
-    <p>De jonge Harry Potter woont na de dood van zijn ouders bij zijn oom en tante, waar hij slecht wordt behandeld en voortdurend de pesterijen van zijn verwende neefje moet ondergaan. Op zijn elfde verjaardag verneemt Harry dat zijn ouders machtige tovenaars waren en dat ook hij unieke magische krachten heeft. Hij vertrekt naar een Britse kostschool voor leerling-tovenaars, waar hij heel wat vrienden maakt die net als hij speciale krachten hebben.</p>
-    <br>
+    <p>PAS OP: SPOILER!!!</p>
+    <button name="spoiler_button" id="spoiler_button" type="button">Show Spoilers</button>
 
-    <h2>Trivia</h2>
-    <p>In de Verenigde Staten werd het boek uitgegeven onder de naam Harry Potter and the Sorcerer's Stone, omdat er door de uitgevers gedacht werd dat de meeste Amerikanen niet bekend waren met het fenomeen 'Philosopher's Stone'.
+    <div id="spoiler_text" class="fadeout" >
+    <p>De jonge Harry Potter woont na de dood van zijn ouders bij zijn oom en tante, waar hij slecht wordt behandeld en voortdurend de pesterijen van zijn verwende neefje moet ondergaan. Op zijn elfde verjaardag verneemt Harry dat zijn ouders machtige tovenaars waren en dat ook hij unieke magische krachten heeft. Hij vertrekt naar een Britse kostschool voor leerling-tovenaars, waar hij heel wat vrienden maakt die net als hij speciale krachten hebben.</p>
+    </div>
+    <script>
+        var divToggleVis = document.getElementById('spoiler_text');
+    var button = document.getElementById('spoiler_button');
+    divToggleVis.style.visibility = 'hidden';
+
+    button.onclick = function() {
+        if (divToggleVis.className === 'fadeout') {
+            divToggleVis.className = 'fadein';
+            divToggleVis.style.visibility = 'visible';
+        } else {
+            divToggleVis.style.visibility = 'hidden';
+            divToggleVis.className = 'fadeout';
+        }
+
+        if (button.innerHTML === 'Show Spoilers') {
+            button.innerHTML = 'Hide Spoilers';
+        } else {
+            button.innerHTML = 'Show Spoilers';
+        }
+    };
+    </script>
+    <br>
 </p>
     
 </div>

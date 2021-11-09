@@ -248,6 +248,10 @@ footer{
   font-weight: bolder;
 }
 
+.GroenRood:hover{
+  color: white;
+}
+
 .Groen {
     background-color: #317f43;
     padding: 22px;
@@ -295,7 +299,42 @@ footer{
   font-size: 50px;
 }
 
+/* Login Pagina */
 
+.contentlogin {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  flex-flow: column;
+  padding: 22px;
+  text-align: center;
+  background-color: #FC814A;
+  margin-top: 120px;
+  margin-bottom: 275px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  border-radius: 22px;
+  border-bottom: 1px solid lightgrey;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+  z-index: 1;
+}
+
+.contentlogin img{
+  width: 150px;
+}
+
+.loginbtn{
+  padding: 15px;
+}
+
+.loginbtn2{
+  padding: 15px;
+}
+
+.loginmain{
+  display: flex;
+  justify-content: space-between;
+}
 
 
 
@@ -568,11 +607,20 @@ div.digital-clock {
    list-style: none;
   }
   .acteurs h1{
-  padding-bottom: 15px;   }
+  padding-bottom: 15px;
+   }
+
   .songteksten h1{
-  padding-bottom: 15px;   }
+  padding-bottom: 15px;
+   }
+
   .gereedschappen h1{
-    padding-bottom: 15px;   }
+    padding-bottom: 15px;
+     }
+
+  .boeken h1{
+    padding-bottom: 15px;
+  }
 
   .acteurs a:hover{
     background-color: #96939B;
@@ -925,6 +973,10 @@ ul.breadcrumb li a:hover {
   font-size: 20px;
 }
 
+.drno img{
+  height: 300px;
+}
+
 .harrypotter{
   padding: 22px;
   text-align: center;
@@ -935,6 +987,10 @@ ul.breadcrumb li a:hover {
   margin-top: 40px;
   margin-bottom: 40px;
   font-size: 20px;
+}
+
+.harrypotter img{
+  height: 300px;
 }
 
 .moonraker{
@@ -959,6 +1015,65 @@ ul.breadcrumb li a:hover {
   margin-top: 40px;
   margin-bottom: 40px;
   font-size: 20px;
+}
+
+.turksfruit{
+  padding: 22px;
+  text-align: center;
+  width: 50%;
+  border-radius: 22px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+  z-index: 1;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+
+.turksfruit img{
+  height: 300px;
+}
+
+.hitchhikers{
+  padding: 22px;
+  text-align: center;
+  width: 50%;
+  border-radius: 22px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+  z-index: 1;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+
+.hitchhikers img{
+  height: 300px;
+}
+
+/* Login Button */
+
+.UserChatBtn {
+  background-color: #BFBFBF;
+  color: black;
+  padding: 16px 20px;
+  border: none;
+  font-weight: 500;
+  font-size: 18px;
+  cursor: pointer;
+  position: left;
+  width: 280px;
+  border-radius: 22px;
+}
+.AdminChatBtn {
+  background-color: #BFBFBF;
+  color: black;
+  padding: 16px 20px;
+  border: none;
+  font-weight: 500;
+  font-size: 18px;
+  cursor: pointer;
+  position: right;
+  width: 280px;
+  border-radius: 22px;
 }
 
 /* Button */
@@ -1021,4 +1136,3 @@ footer a,
 .btn-1 a:hover::after,
 .btn-2 a:hover::after {
   transform: scaleX(0);
-}
