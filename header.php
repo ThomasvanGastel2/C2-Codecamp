@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <div class="loginbtn">
-            <a href="<?php echo $base_url; ?>/Songteksten/songteksten.php">Login</a>
+            <a href="<?php echo $base_url; ?>/login.php">Login</a>
             </div>
             </div>
             
