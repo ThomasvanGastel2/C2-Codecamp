@@ -248,6 +248,10 @@ footer{
   font-weight: bolder;
 }
 
+.GroenRood:hover{
+  color: white;
+}
+
 .Groen {
     background-color: #317f43;
     padding: 22px;
@@ -959,4 +963,20 @@ ul.breadcrumb li a:hover {
   margin-top: 40px;
   margin-bottom: 40px;
   font-size: 20px;
+}
+
+.turksfruit{
+  padding: 22px;
+  text-align: center;
+  width: 50%;
+  border-radius: 22px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+  z-index: 1;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+
+.turksfruit img{
+  height: 300px;
 }
