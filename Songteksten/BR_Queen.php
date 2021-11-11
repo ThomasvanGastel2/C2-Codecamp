@@ -17,6 +17,7 @@
 
                 <p>
                     <h2>"Bohemian Rhapsody"</h2><br>
+                    <img src="<?php echo $base_url; ?>/img/queen.jpg" alt="">
                     <h2>"Queen"</h2><br>
                 <p>
                     Is this the real life?<br>
