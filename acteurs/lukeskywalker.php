@@ -19,7 +19,11 @@
         <img src="../img/lukeskywalker.png" alt="lukeskywalker">
 
     <h2>Biografie</h2>
-        <h3>Episode III: Revenge of the Sith</h3>
+    <p>PAS OP: SPOILER!!!</p>
+    <button name="spoiler_button" id="spoiler_button" type="button">Show Spoilers</button>
+
+    <div id="spoiler_text" class="fadeout" >
+    <h3>Episode III: Revenge of the Sith</h3>
             <p>Luke en Leia worden geboren in Episode III, net nadat Keizer Palpatine de macht heeft gegrepen en het keizerrijk heeft gesticht. Hun vader, Anakin, is net overgestapt naar de Duistere Kant (Dark Side) en hun moeder overlijdt bij de bevalling.
             Om Luke en Leia uit handen van de keizer te houden, wordt Leia ondergebracht bij Bail Organa en zijn vrouw op de planeet Alderaan. Luke wordt bij zijn oom en tante, Owen en Beru Lars ondergebracht op de planeet Tatooine. Zijn pleegouders houden zijn verleden angstvallig stil, bang als zij zijn voor de vergaande macht van de keizer en zijn rechterhand, Darth Vader oftewel Anakin.</p>
         <br>
@@ -66,6 +70,28 @@
         <p>Luke speelt een grote rol in het Star Wars Expanded Universe. Hierin is het leven van Luke Skywalker zeer uitgebreid (ook over de periodes door de films worden overlapt, maar niet worden getoond). Het is bijvoorbeeld Luke die de locatie op Hoth vindt, waar de rebellen zich hebben gehergroepeerd in Episode V. Tevens wordt hij tussentijds verliefd op Shira Brie, die hij kort daarna per ongeluk zou doden, tijdens een gevecht waarbij hij wederom moest vertrouwen op zijn kracht als Jedi. Maar later zou blijken dat Brie een geheim agente van het Keizerrijk was.
         Na de slag op Endor gaat zijn verhaal verder. Zo zou Luke na de films een zeer gerespecteerd Jedi-meester worden en vele generaties Padawan opleiden om de eeuwenoude traditie van de Jedi opnieuw te doen opleven. Tevens ontmoet hij Mara Jade, die in eerste instantie erop uit is om hem te doden, maar later krijgen ze gevoelens voor elkaar en trouwen ze.</p>
     <br>
+    </div>
+    <script>
+        var divToggleVis = document.getElementById('spoiler_text');
+    var button = document.getElementById('spoiler_button');
+    divToggleVis.style.visibility = 'hidden';
+
+    button.onclick = function() {
+        if (divToggleVis.className === 'fadeout') {
+            divToggleVis.className = 'fadein';
+            divToggleVis.style.visibility = 'visible';
+        } else {
+            divToggleVis.style.visibility = 'hidden';
+            divToggleVis.className = 'fadeout';
+        }
+
+        if (button.innerHTML === 'Show Spoilers') {
+            button.innerHTML = 'Hide Spoilers';
+        } else {
+            button.innerHTML = 'Show Spoilers';
+        }
+    };
+    </script>
 </div>
 <?php
 

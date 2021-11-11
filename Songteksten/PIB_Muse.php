@@ -16,6 +16,7 @@
             <div class="Oranje">
                 <p>
                 <h2>"Plug in Baby"</h2><br>
+                <img src="../img/muse.jfif" alt="Muse">
                 <h2>"Muse"</h2><br>
                 <br>
                 I've exposed your lies, baby<br>

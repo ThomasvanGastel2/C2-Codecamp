@@ -227,6 +227,11 @@ footer{
     margin-bottom: 40px;
 }
 
+.Rood img{
+  width: 375;
+  border-radius: 22px;
+}
+
 .Oranje {
     background-color: #b97d4b;
     padding: 22px;
@@ -237,6 +242,11 @@ footer{
     z-index: 1;
     margin-top: 40px;
     margin-bottom: 40px;
+}
+
+.Oranje img{
+  width: 375;
+  border-radius: 22px;
 }
 
 .GroenRood{
@@ -251,6 +261,11 @@ footer{
   margin-top: 40px;
   margin-bottom: 40px;
   font-weight: bolder;
+}
+
+.GroenRood img{
+  width: 375;
+  border-radius: 22px;
 }
 
 .GroenRood:hover{
@@ -363,7 +378,7 @@ footer{
 .lukeskywalker {
     background-color: #317f43;
     padding: 22px;
-    justify-content: center;
+    text-align: center;
     width: 50%;
     border-radius: 22px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
@@ -375,15 +390,15 @@ footer{
 }
 
 .darthvader {
-    padding: 22px;
-    justify-content: center;
-    width: 50%;
-    border-radius: 22px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
-    z-index: 1;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    font-size: 20px;
+  padding: 22px;
+  text-align: center;
+  width: 50%;
+  border-radius: 22px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 5);
+  z-index: 1;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
 }
 
 
@@ -437,6 +452,10 @@ div.digital-clock {
   .boeken img{
     width: 760px;
     height: 300px;
+  }
+
+  .boeken li{
+    margin-bottom: 22px;
   }
 
 /* Koffie */
@@ -746,7 +765,7 @@ div.digital-clock {
   }
 
   .timotydalto img{
-    width: 600px;
+    width: 500px;
     height: 300px;
     border-radius: 10px;
     display: flex;
@@ -754,7 +773,7 @@ div.digital-clock {
   }
 
   .rogermoore img{
-    width: 600px;
+    width: 500px;
     height: 300px;
     border-radius: 10px;
     display: flex;
@@ -770,7 +789,7 @@ div.digital-clock {
   }
 
   .lukeskywalker img{
-    width: 760px;
+    width: 500px;
     height: 300px;
     border-radius: 10px;
   }
@@ -821,7 +840,7 @@ div.digital-clock {
 
   .georgeclooney img{
     border-radius: 10px;
-    width: 660px;
+    width: 560px;
     height: 300px;
   }
 
@@ -892,11 +911,6 @@ div.digital-clock {
 }
 
 .timotydalto{
-    background-color: #317f43;
-    color: white;
-}
-
-.lukeskywalker{
     background-color: #317f43;
     color: white;
 }
@@ -1059,53 +1073,3 @@ div.digital-clock {
   align-items: center;
   flex-direction: column;
 }
-/* Created by http://grohit.com/  */
-footer a,
-.btn-1 a,
-.btn-2 a {
-  text-decoration: none;
-  border: 2px solid #010100;
-  padding: 15px;
-  color: #000;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  position: relative;
-  display: inline-block;
-}
-
-
-.btn-1 a::before {
-  content: "";
-  position: absolute;
-  top: 5px;
-  left: -2px;
-  width: calc(100% + 6px);
-  /*100% plus double the times left values*/
-  height: calc(100% - 10px);
-  background-color: purple;
-  transition: all 0.5s ease-in-out;
-  transform: scaleY(1);
-}
-
-.btn-1 a:hover::before,
-.btn-2 a:hover::before {
-  transform: scaleY(0);
-}
-
-.btn-1 a::after {
-  content: "";
-  position: absolute;
-  left: 5px;
-  top: -5px;
-  width: calc(100% - 10px);
-  /*100% plus double the times left values*/
-  height: calc(100% + 10px);
-  background-color: purple;
-  transition: all 0.5s ease-in-out;
-  transform: scaleX(1);
-}
-/* Created by http://grohit.com/  */
-
-.btn-1 a:hover::after,
-.btn-2 a:hover::after {
-  transform: scaleX(0);
