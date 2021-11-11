@@ -16,6 +16,7 @@
             <div class="Blauw">
                 <p>
                     <h2>"We Are The Champions"</h2><br>
+                    <img src="<?php echo $base_url; ?>/img/queen.jpg" alt="">
                     <h2>"Queen"</h2><br>
                     <br>
                     I've paid my dues<br>

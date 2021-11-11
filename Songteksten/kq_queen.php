@@ -17,7 +17,7 @@
 
                 <p>
                     <h2>"Killer Queen"</h2><br>
-
+                    <img src="<?php echo $base_url; ?>/img/queen.jpg" alt="">
                     <h2>"Queen"</h2><br>
                     <br>
                     <p>
