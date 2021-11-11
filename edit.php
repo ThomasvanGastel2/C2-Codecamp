@@ -33,7 +33,7 @@
 
         
 
-        <form action="../backend/taskController.php" method="POST">
+        <form action="backend/taskController.php" method="POST">
         <input type="hidden" name="action" value="update">
         <input type="hidden" name="id" value="<?php echo $id; ?>">
 
@@ -43,8 +43,8 @@
             </div>
 
             <div class="form-group">
-                <label for="beschrijving">Prijs</label>
-                <input type="text" name="beschrijving" value="<?php echo $boek['prijs']; ?>">
+                <label for="prijs">Prijs</label>
+                <input type="text" name="prijs" value="<?php echo $boek['prijs']; ?>">
             </div>
 
             
@@ -54,13 +54,6 @@
             </div>
 
         </form>
-        <!-- <form action="../backend/taskController.php" method="POST">
-    <input type="hidden" name="action" value="delete">
-    <input type="hidden" name="id" value="<?php echo $id; ?>">
-    <div class="form-input">
-            <input type="hidden" name="action" value="delete">
-            <input type="hidden" name="id"value=" <?php echo $id; ?>">
-            <input type="submit" value="Verwijderen"> -->
     </div>
 
     </form>

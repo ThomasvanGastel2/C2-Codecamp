@@ -21,6 +21,6 @@ if($action == "update")
 
     ]);
 
-    Header("Location: admin.php?msg=Wijziging opgeslagen");
+    Header("Location: index.php?msg=Wijziging opgeslagen");
 }
 ?>
