@@ -16,8 +16,8 @@
     <div class="zagen">
     <h1>Zagen</h1>
         <ul>
-            <a href="<?php echo $base_url; ?>/zagen/cirkelzagen.php">Cirkelzagen</a><br>
-            <a href="<?php echo $base_url; ?>/zagen/Handzagen.php">Handzagen</a><br> 
+            <a href="<?php echo $base_url; ?>/zagen/cirkelzagen.php">Cirkelzaag</a><br>
+            <a href="<?php echo $base_url; ?>/zagen/Handzagen.php">Handzaag</a><br> 
         </ul>
     </div>                  
                         

@@ -15,7 +15,6 @@ $base_url = 'http://localhost/C2-Codecamp';
 // $dbHost = 'rdbms.strato.de';
 // $dbName = 'dbu1409132';
 // $dbUser = 'dbs1889372';
-// $dbPass = 'dki9majz2004';
 $conn = mysqli_connect($dbHost, $dbUser, $dbPass, $dbName);
 // Check connection
 if (mysqli_connect_errno())

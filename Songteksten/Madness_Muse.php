@@ -17,7 +17,7 @@
                 
                 <p>
                 <h2>"Madness"</h2><br>
-                <img src="../img/muse.jfif" alt="Muse">
+                <img src="../img/muse.png" alt="Muse">
                 <h2>"Muse"</h2><br>
                 <p>
                 <br>
